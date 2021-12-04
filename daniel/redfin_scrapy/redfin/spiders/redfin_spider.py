@@ -19,21 +19,54 @@ class RedfinSpider(Spider):
             yield Request(url=url, callback=self.parse_results_page)
 
     def parse_results_page(self, response):
-        # extracts property address from title
+        # extracts PROP ADDRESS from title
         RF_item['Prop_Addr'] = response.xpath('//h1/div[@class="street-address"]/@title').extract()[0]
-        # extracts major stats of house from //div/class="statsValue": Listing_Price, tot_beds, tot_baths
-        RF_item['Listing_Price'] = response.xpath("//div[@class='statsValue']/text()").extract()[0]
-        try:
-            RF_item['Tot_beds'] = response.xpath("//div[@class='statsValue']/text()").extract()[1]
-        except:
-            RF_item['Tot_beds'] = 0
-        try:
-            RF_item['Tot_baths'] = response.xpath("//div[@class='statsValue']/text()").extract()[2]
-        except:
-            RF_item['Tot_baths'] = 0
-        # extracts SQFT of house from //div/class="stat-block sqft-section"/span
-        RF_item['Sqft'] = response.xpath("//div[@class='stat-block sqft-section']/span/text()").extract()[0]
-        # extracts property desc from //p/class="text-base"/span
+        # extracts LISTPRICE
+        RF_item['ListPrice'] = response.xpath("//div[@class='statsValue']/text()").extract()[0]
+        # extracts PROP DESCRIPTION
         RF_item['Text_base'] = response.xpath("//p[@class='text-base']/span/text()").extract()[0]
-        
+
+        # extracts HOME FACTS table information
+        home_facts = response.xpath("//div[@class='keyDetailsList']//span[@class='content text-right']/text()").extract()
+        RF_item['Time_onRF'] = home_facts[0]
+        RF_item['Prop_type'] = home_facts[1]
+        RF_item['HOA_dues'] = home_facts[2]
+        RF_item['Year_built'] = home_facts[3]
+        RF_item['Prop_style'] = home_facts[4]
+        RF_item['Community'] = home_facts[5]
+        RF_item['MLS_num'] = home_facts[6]
+        # extracts PRICE INSIGHTS table information
+        RF_item['ListPrice2'] = home_facts[7]
+        RF_item['EstMo_pmt'] = home_facts[8]
+        if len(home_facts) == 11:
+            RF_item['RF_PriceEst'] = 'NaN'
+            RF_item['Price_perSF'] = home_facts[9]
+            RF_item['Buyers_comm'] = home_facts[10]
+        else:
+            RF_item['RF_PriceEst'] = home_facts[9]
+            RF_item['Price_perSF'] = home_facts[10]
+            RF_item['Buyers_comm'] = home_facts[11]
+
+        # extracts PUBLIC FACTS table information
+        public_facts = response.xpath("//div[@class='facts-table']//div[@class='table-value']/text()").extract()
+        RF_item['Tot_beds'] = public_facts[0]
+        RF_item['Tot_baths'] = public_facts[1]
+        RF_item['Fin_sqft'] = public_facts[2]
+        RF_item['Unf_sqft'] = public_facts[3]
+        RF_item['Tot_sqft'] = public_facts[4]
+        RF_item['Stories'] = public_facts[5]
+        RF_item['Lot_size'] = public_facts[6]
+        RF_item['Prop_style2'] = public_facts[7]
+        RF_item['YearBuilt2'] = public_facts[8]
+        RF_item['YearReno'] = public_facts[9]
+        RF_item['County'] = public_facts[10]
+        RF_item['APN_num'] = public_facts[11]
+
+        # extracts TRANSPORTATION Info
+        transportation = response.xpath("//div[@class='walk-score']//div[@class='percentage']/span/text()").extract()
+        RF_item['Walk_score'] = transportation[0]
+        RF_item['Transit_score'] = transportation[2]
+        RF_item['Bike_score'] = transportation[4]
+
+
         yield RF_item
