@@ -4,15 +4,17 @@ import json
 
 class SchoolSpider(scrapy.Spider):
     name = "school_scraper"
-    start_urls = ['https://www.greatschools.org/search/search.zipcode?sort=rating&zip=20852']
+    num_pages = 1
+
+    ## Need to get the links for zips and pages -- right now it only looks at the first page of one zip
+    links = []
+    for i in range(1,3):
+        link = 'https://www.greatschools.org/search/search.zipcode?page=' + str(i) + '&sort=rating&zip=20852'
+        links.append(link)
+    start_urls = links
 
     def parse(self, response):
-        # dict_text = response.xpath("//script").extract_first()
-        # print(dict_text)
-        # print("-"*55)
-        # match = re.search(r'gon.search=', dict_text)
-        # print("HEYYY")
-        # print(dict_text[match.end():])
+
         res = response.xpath("//script").extract_first()
         x = json.loads(re.search(r'gon.search=(.*?);', res).group(1))
         schools = x['schools']
@@ -36,3 +38,5 @@ class SchoolSpider(scrapy.Spider):
             dict['schoolType'] = temp['schoolType']
             dict['pctLowIncome']= temp['percentLowIncome']
             dict['overallRating']  = temp['rating']
+
+            yield dict
