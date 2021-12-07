@@ -9,8 +9,9 @@ zip_codes = zips['ZipCode']
 zip_codes =zip_codes.tolist()
     
 class SchoolSpider(scrapy.Spider):
+
     name = "school_scraper"
-    # start_urls = [f'https://www.greatschools.org/search/search.zipcode?page=1&sort=rating&zip={zip}' for zip in zip_codes]
+
     start_urls = [f'https://www.greatschools.org/search/search.zipcode?page=1&sort=rating&zip=20852']
 
     def parse(self, response):
