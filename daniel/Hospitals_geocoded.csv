@@ -1,12 +1,12 @@
 Facility_Name,Address,City,State,ZIP_Code,County_Name,Phone_Number,Hospital_Type,Hospital_Ownership,Emergency_Services,Overall_Rating,latitude,longitude
 George Washington Univ Hospital,900 23RD ST NW,WASHINGTON,DC,20037,District of Columbia,(202) 716-4605,Acute Care Hospitals,Proprietary,Yes,1,38.9014106,-77.05060019
 Howard University Hospital,2041 GEORGIA AVE NW,WASHINGTON,DC,20060,District of Columbia,(202) 745-6100,Acute Care Hospitals,Voluntary non-profit - Other,No,1,38.91783385,-77.0201005
-Medstar Georgetown University Hospital,3800 RESERVOIR RD,WASHINGTON,DC,20007,District of Columbia,(202) 784-3000,Acute Care Hospitals,Proprietary,Yes,2,46.0749266,-118.2792729
+Medstar Georgetown University Hospital,3800 RESERVOIR RD,WASHINGTON,DC,20007,District of Columbia,(202) 784-3000,Acute Care Hospitals,Proprietary,Yes,2,38.911482649999996,-77.07519316890705
 Sibley Memorial Hospital,5255 LOUGHBORO RD NW,WASHINGTON,DC,20016,District of Columbia,(202) 537-4680,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,38.9367698,-77.10887954
 United Medical Center,1310 SOUTHERN AVENUE  SE,WASHINGTON,DC,20032,District of Columbia,(202) 574-6611,Acute Care Hospitals,Proprietary,Yes,1,38.83587585,-76.98493751
 Medstar Washington Hospital Center,110 IRVING STREET NW,WASHINGTON,DC,20010,District of Columbia,(202) 877-7000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,38.9287492,-77.01476928
 Children'S National Hospital,"111 MICHIGAN AVE, NW",WASHINGTON,DC,20010,District of Columbia,(202) 476-5000,Childrens,Voluntary non-profit - Private,Yes,Not Available,,
-St Elizabeths Hospital,"1100 ALABAMA AVENUE, SE",WASHINGTON,DC,20032,District of Columbia,(202) 299-5500,Psychiatric,Government - State,No,Not Available,30.788078,-89.85899
+St Elizabeths Hospital,"1100 ALABAMA AVENUE, SE",WASHINGTON,DC,20032,District of Columbia,(202) 299-5500,Psychiatric,Government - State,No,Not Available,38.848307500000004,-76.98691760354788
 Psychiatric Institute Of Washington,"4228 WISCONSIN AVENUE, NW",WASHINGTON,DC,20016,District of Columbia,(202) 885-5600,Psychiatric,Voluntary non-profit - Private,No,Not Available,38.94389275,-77.07806697
 Shands Jacksonville,655 W 8TH ST,JACKSONVILLE,FL,32209,Duval,(904) 244-0411,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,30.3485001,-81.66490146
 Bethesda  Hospital Inc,2815 S SEACREST BLVD,BOYNTON BEACH,FL,33435,Palm Beach,(561) 737-7733,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,26.5046724,-80.07016957
@@ -221,7 +221,7 @@ Upson Regional Medical Center,801 W GORDON STREET,THOMASTON,GA,30286,Upson,(706)
 Mayo Clinic Health System In Waycross,1900 TEBEAU STREET,WAYCROSS,GA,31501,Ware,(912) 287-2500,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,31.22425015,-82.34789554
 Northside Hospital Forsyth,1200 NORTHSIDE FORSYTH DRIVE,CUMMING,GA,30041,Forsyth,(770) 844-3200,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,34.1779101,-84.14107298
 St Mary'S Hospital,1230 BAXTER STREET,ATHENS,GA,30606,Clarke,(706) 389-3930,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,33.94745715,-83.40529604
-Phoebe Putney Memorial Hospital,417 THIRD AVENUE,ALBANY,GA,31703,Dougherty,(229) 312-4068,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,42.71084395,-73.70954217
+Phoebe Putney Memorial Hospital,417 THIRD AVENUE,ALBANY,GA,31703,Dougherty,(229) 312-4068,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,31.59042535,-84.15758867013469
 Northside Hospital Cherokee,450 NORTHSIDE CHEROKEE BOULEVARD,CANTON,GA,30115,Cherokee,(770) 244-1000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,34.22885345,-84.46471166
 Emory University Hospital,"1364 CLIFTON ROAD, NE",ATLANTA,GA,30322,DeKalb,(404) 686-8500,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,33.792151,-84.32208291
 Tanner Medical Center - Carrollton,705 DIXIE STREET,CARROLLTON,GA,30117,Carroll,(770) 836-9580,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,33.5697284,-85.07421665
@@ -415,7 +415,7 @@ Kennedy Krieger Institute,707 NORTH  BROADWAY,BALTIMORE,MD,21205,Baltimore City,
 Eastern Shore Hospital Center,POST OFFICE BOX 800,CAMBRIDGE,MD,21613,Dorchester,(410) 221-2525,Psychiatric,Government - State,No,Not Available,39.39061655,-76.6188941
 Brook Lane Health Services,13215  BROOK LANE DRIVE,HAGERSTOWN,MD,21742,Washington,(301) 733-0330,Psychiatric,Voluntary non-profit - Private,No,Not Available,38.5409617,-76.0646796
 Springfield Hospital Center,6655 SYKESVILLE ROAD,SYKESVILLE,MD,21784,Carroll,(410) 970-7000,Psychiatric,Government - State,No,Not Available,,
-Thomas B Finan Center,"10102 COUNTRY CLUB ROAD,  POST OFFICE BOX 1722",CUMBERLAND,MD,21502,Allegany,(301) 777-2240,Psychiatric,Government - Local,No,Not Available,40.087879,-74.6279621
+Thomas B Finan Center,"10102 COUNTRY CLUB ROAD,  POST OFFICE BOX 1722",CUMBERLAND,MD,21502,Allegany,(301) 777-2240,Psychiatric,Government - Local,No,Not Available,39.6572208,-78.748512
 Spring Grove Hospital Center,55 WADE AVENUE,CATONSVILLE,MD,21228,Baltimore,(410) 402-7455,Psychiatric,Government - State,No,Not Available,,
 Carolinas Medical Center-Northeast,920 CHURCH ST N,CONCORD,NC,28025,Cabarrus,(704) 783-3000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,39.26533875,-76.72075723
 Memorial Mission Hospital And Asheville Surgery Ce,509 BILTMORE AVE,ASHEVILLE,NC,28801,Buncombe,(828) 213-1111,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.43761825,-80.60209038
@@ -500,7 +500,7 @@ Novant Health Matthews Medical Center,1500 MATTHEWS TWNSHP PRKWY BOX 3310,MATTHE
 Novant Health Huntersville Medical Center,10030 GILEAD ROAD,HUNTERSVILLE,NC,28078,Mecklenburg,(704) 316-4000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,,
 Haywood Regional Medical Center,262 LEROY GEORGE DRIVE,CLYDE,NC,28721,Haywood,(828) 456-7311,Acute Care Hospitals,Government - Hospital District or Authority,Yes,5,35.4057359,-80.85993903
 Vidant Beaufort Hospital,628 E 12TH ST,WASHINGTON,NC,27889,Beaufort,(252) 975-4100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,35.5252312,-82.9427378
-Davie Medical Center,223 HOSPITAL STREET,MOCKSVILLE,NC,27028,Davie,(336) 751-8100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,41.48694196,-91.6971301
+Davie Medical Center,223 HOSPITAL STREET,MOCKSVILLE,NC,27028,Davie,(336) 751-8100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,35.898176453568986,-80.57547762576237
 Cape Fear Valley Hoke Hospital,210 MEDICAL PAVILION DRIVE,RAEFORD,NC,28376,Hoke,(910) 904-8000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,,
 Novant Health Mint Hill Medical Center,8201 HEALTHCARE LOOP,CHARLOTTE,NC,28215,Mecklenburg,(704) 384-4089,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available,35.02993385,-79.10741221
 Firsthealth Montgomery Memorial Hosp,520 ALLEN STREET,TROY,NC,27371,Montgomery,(910) 572-1301,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,,
@@ -607,7 +607,7 @@ The William J Mccord Adolescent Treatment Facility,910 COOK ROAD,ORANGEBURG,SC,2
 Rebound Behavioral Health,134 EAST REBOUND ROAD,LANCASTER,SC,29720,Lancaster,(803) 313-3700,Psychiatric,Proprietary,Yes,Not Available,33.53084738,-80.82076547
 Norton Community Hospital,100  15TH NW STREET,NORTON,VA,24273,Norton City,(276) 439-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,34.86527495,-80.80292773
 Russell County Hospital,58 CARROLL STREET,LEBANON,VA,24266,Russell,(276) 883-8100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,36.93349735,-82.6422989
-Sentara Rmh Medical Center,2010 HEALTH CAMPUS DRIVE,HARRISONBURG,VA,22801,Harrisonburg City,(540) 689-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,44.5291196,-122.9032729
+Sentara Rmh Medical Center,2010 HEALTH CAMPUS DRIVE,HARRISONBURG,VA,22801,Harrisonburg City,(540) 689-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,38.4051275,-78.85520746693862
 Winchester Medical Center,1840 AMHERST ST,WINCHESTER,VA,22601,Winchester City,(540) 536-8000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,38.4051275,-78.85520747
 Sentara Norfolk General Hospital,600 GRESHAM DR,NORFOLK,VA,23507,Norfolk City,(757) 388-3000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,39.19627145,-78.18943473
 University Of Virginia Medical Center,1215 LEE STREET,CHARLOTTESVILLE,VA,22908,Charlottesville City,(800) 251-3627,Acute Care Hospitals,Government - State,Yes,4,36.86246035,-76.30383384
@@ -714,7 +714,7 @@ St Francis Hospital,333 LAIDLEY ST,CHARLESTON,WV,25301,Kanawha,(304) 347-6500,Ac
 Stonewall Jackson Memorial Hospital,230 HOSPITAL PLAZA,WESTON,WV,26452,Lewis,(304) 269-8080,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,38.35380135,-81.63292439
 Ohio Valley Medical Center,2000 EOFF STREET,WHEELING,WV,26003,Ohio,(304) 234-0123,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,39.0474316,-80.49209534
 Princeton Community Hospital,122 12TH STREET,PRINCETON,WV,24740,Mercer,(304) 487-7260,Acute Care Hospitals,Government - Local,Yes,3,40.059954,-80.721294
-Fairmont Regional Medical Center,1325 LOCUST AVENUE,FAIRMONT,WV,26554,Marion,(304) 367-7100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,33.181101,-96.488793
+Fairmont Regional Medical Center,1325 LOCUST AVENUE,FAIRMONT,WV,26554,Marion,(304) 367-7100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,39.48186935,-80.1650723045395
 Logan Regional Medical Center,20 HOSPITAL DRIVE,LOGAN,WV,25601,Logan,(304) 831-1101,Acute Care Hospitals,Proprietary,Yes,4,39.48186935,-80.1650723
 Wheeling Hospital,1 MEDICAL PARK,WHEELING,WV,26003,Ohio,(304) 243-3000,Acute Care Hospitals,Voluntary non-profit - Church,Yes,1,37.84613475,-81.99421623
 Cabell Huntington Hospital Inc,1340 HAL GREER BOULEVARD,HUNTINGTON,WV,25701,Cabell,(304) 526-2192,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,40.05853955,-80.68459552
