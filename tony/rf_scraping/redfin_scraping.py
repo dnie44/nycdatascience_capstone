@@ -43,19 +43,25 @@ def make_soup(zips) :
 
 
 
-df = pd.read_csv('zip_df.csv')
+df = pd.read_csv('zip_list_2.csv')
 df['ZipCode'] = df['ZipCode'].apply(str)
 zip_list = df.ZipCode
 count = 0
 
-for zip_code in zip_list:
-	if count < 70001 :
-		print(zip_code)
-		make_soup(zip_code)
-		count = count + 1
-	else : print('done')
+# for zip_code in zip_list:
+# 	if count < 7001 :
+# 		print(zip_code)
+# 		make_soup(zip_code)
+# 		count = count + 1
+# 	else : print('done')
 
-
+os.chdir("/Users/tonypennoyer/desktop/capstone/final_scrape")
+extension = 'csv'
+all_filenames = [i for i in glob.glob('*.{}'.format(extension))]
+#combine all files in the list
+combined_2 = pd.concat([pd.read_csv(f) for f in all_filenames ])
+#export to csv
+combined_2.to_csv( "combined_csv.csv", index=False, encoding='utf-8-sig')
 
 
 
