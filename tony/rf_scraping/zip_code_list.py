@@ -27,4 +27,15 @@ ripped_zips = list(final_df['zip'].unique())
 
 # ----------- Remove Duplicates ----------------
 final_df = final_df[final_df.ADDRESS.duplicated() == False]
-print(final_df.ADDRESS)
+# ----------------------------------------------
+
+# ----------- Sort zips ascending --------------
+final_df = final_df.sort_values(by=['zip'], ascending=True)
+# ----------------------------------------------
+
+print(final_df.info())
+print(df.info())
+
+boolean_series = final_df['zip'].isin(zip_list)
+filtered_df = final_df[boolean_series]
+filtered_df.to_csv('redfin_cleaned_stage_1.csv')
