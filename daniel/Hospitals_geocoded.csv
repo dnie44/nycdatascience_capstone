@@ -4,7 +4,7 @@ Medstar Georgetown University Hospital,3800 RESERVOIR RD,WASHINGTON,DC,20007,Dis
 Sibley Memorial Hospital,5255 LOUGHBORO RD NW,WASHINGTON,DC,20016,District of Columbia,(202) 537-4680,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,38.9367698,-77.10887954
 United Medical Center,1310 SOUTHERN AVENUE  SE,WASHINGTON,DC,20032,District of Columbia,(202) 574-6611,Acute Care Hospitals,Proprietary,Yes,1,38.83587585,-76.98493751
 Medstar Washington Hospital Center,110 IRVING STREET NW,WASHINGTON,DC,20010,District of Columbia,(202) 877-7000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,38.9287492,-77.01476928
-Children'S National Hospital,"111 MICHIGAN AVE, NW",WASHINGTON,DC,20010,District of Columbia,(202) 476-5000,Childrens,Voluntary non-profit - Private,Yes,Not Available,38.927020999999996,-77.01397879086224
+Children'S National Hospital,"111 MICHIGAN AVE, NW",WASHINGTON,DC,20010,District of Columbia,(202) 476-5000,Childrens,Voluntary non-profit - Private,Yes,0,38.927021,-77.01397879086224
 Shands Jacksonville,655 W 8TH ST,JACKSONVILLE,FL,32209,Duval,(904) 244-0411,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,30.3485001,-81.66490146
 Bethesda  Hospital Inc,2815 S SEACREST BLVD,BOYNTON BEACH,FL,33435,Palm Beach,(561) 737-7733,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,26.5046724,-80.07016957
 Orlando Health,52 W UNDERWOOD ST,ORLANDO,FL,32806,Orange,(321) 843-8000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,28.52680265,-81.37793857
@@ -81,7 +81,7 @@ South Florida Baptist Hospital,301 N ALEXANDER ST,PLANT CITY,FL,33563,Hillsborou
 Ed Fraser Memorial Hospital,159 N 3RD ST,MACCLENNY,FL,32063,Baker,(904) 259-3151,Acute Care Hospitals,Voluntary non-profit - Church,Yes,3,30.2857586,-82.1188859
 Tallahassee Memorial Healthcare,1300 MICCOSUKEE RD,TALLAHASSEE,FL,32308,Leon,(850) 431-5380,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,30.45757135,-84.26103821
 Adventhealth Heart Of Florida,40100 HWY 27,DAVENPORT,FL,33837,Polk,(863) 422-4971,Acute Care Hospitals,Proprietary,Yes,2,28.18123,-81.642128
-Nh Jacksonville,2080 Child Street,Jacksonville,FL,32212,Duval,(904) 542-7300,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,30.2082416,-81.68316026
+Nh Jacksonville,2080 Child Street,Jacksonville,FL,32212,Duval,(904) 542-7300,Acute Care - Department of Defense,Department of Defense,Yes,0,30.2082416,-81.68316026
 Baptist Medical Center - Nassau,1250 S 18TH ST,FERNANDINA BEACH,FL,32034,Nassau,(904) 321-3500,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,30.65230925,-81.44914242
 Jackson Hospital,4250 HOSPITAL DR,MARIANNA,FL,32446,Jackson,(850) 526-2200,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,30.78698585,-85.24184937
 Lower Keys Medical Center,5900 COLLEGE ROAD,KEY WEST,FL,33040,Monroe,(305) 294-5531,Acute Care Hospitals,Proprietary,Yes,3,24.5809017,-81.7429599
@@ -108,11 +108,11 @@ North Florida Regional Medical Center,6500 NEWBERRY RD,GAINESVILLE,FL,32605,Alac
 Memorial Hospital Of Tampa,2901 W SWANN AVE,TAMPA,FL,33609,Hillsborough,(813) 873-6400,Acute Care Hospitals,Proprietary,Yes,4,27.93780275,-82.48940572
 Kendall Regional Medical Center,11750 BIRD RD,MIAMI,FL,33175,Miami-Dade,(305) 223-3000,Acute Care Hospitals,Proprietary,Yes,2,25.73100385,-80.38624331
 Adventhealth Dade City,13100 FT KING RD,DADE CITY,FL,33525,Pasco,(352) 568-1100,Acute Care Hospitals,Proprietary,Yes,2,28.3479584,-82.20047478
-Marion Communtiy Hospital,1431 SW 1ST AVE,OCALA,FL,34478,Marion,(352) 401-1000,Acute Care Hospitals,Proprietary,Yes,2,29.174981600000002,-82.13607701728881
+Marion Communtiy Hospital,1431 SW 1ST AVE,OCALA,FL,34478,Marion,(352) 401-1000,Acute Care Hospitals,Proprietary,Yes,2,29.1749816,-82.13607701728881
 Blake Medical Center,2020 59TH ST W,BRADENTON,FL,34209,Manatee,(941) 798-6110,Acute Care Hospitals,Proprietary,Yes,2,27.4821165,-82.62255126
-Steward Sebastian River Medical Center,13695 US HWY 1,SEBASTIAN,FL,32978,Indian River,(772) 589-3187,Acute Care Hospitals,Proprietary,Yes,2,27.842746157632874,-80.48735965877995
-96Th Medical Group (Eglin Afb),96 MDG 307 Boatner Rd Suite 114,Eglin AFB,FL,32542,Okaloosa,(850) 883-8600,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,,
-Gulf Coast Medical Center Lee Health,13681 DOCTORS WAY,FORT MYERS,FL,33912,Lee,(239) 768-5000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,,
+Steward Sebastian River Medical Center,13695 US HWY 1,SEBASTIAN,FL,32978,Indian River,(772) 589-3187,Acute Care Hospitals,Proprietary,Yes,2,27.84274615763288,-80.48735965877995
+96Th Medical Group (Eglin Afb),96 MDG 307 Boatner Rd Suite 114,Eglin AFB,FL,32542,Okaloosa,(850) 883-8600,Acute Care - Department of Defense,Department of Defense,Yes,0,30.4559076,-86.553541
+Gulf Coast Medical Center Lee Health,13681 DOCTORS WAY,FORT MYERS,FL,33912,Lee,(239) 768-5000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,26.5442056,-81.8517835
 Fort Walton Beach Medical Center,1000 MAR-WALT DR,FORT WALTON BEACH,FL,32547,Okaloosa,(850) 862-1111,Acute Care Hospitals,Proprietary,Yes,2,30.4542206,-86.63361445
 University Hospital And Medical Center,7201 N UNIVERSITY DR,TAMARAC,FL,33321,Broward,(954) 721-2200,Acute Care Hospitals,Proprietary,Yes,1,26.2120614,-80.25446566
 Orange Park Medical Center,2001 KINGSLEY AVE,ORANGE PARK,FL,32073,Clay,(904) 276-8500,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,30.16595815,-81.73737693
@@ -137,7 +137,7 @@ Oak Hill Hospital,11375 CORTEZ BLVD,BROOKSVILLE,FL,34613,Hernando,(352) 596-6632
 Morton Plant Mease Healthcare Countryside,3231 MCMULLEN BOOTH RD,SAFETY HARBOR,FL,34695,Pinellas,(727) 734-6950,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,28.039609,-82.708926
 Gulf Breeze Hospital,1110 GULF BREEZE PKWY,GULF BREEZE,FL,32561,Santa Rosa,(850) 934-2000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,30.3608179,-87.15692526
 Englewood Community Hospital,700 MEDICAL BLVD,ENGLEWOOD,FL,34223,Sarasota,(941) 475-6571,Acute Care Hospitals,Proprietary,Yes,4,26.9500736,-82.32661361
-West Boca Medical Center,21644 STATE RD 7,BOCA RATON,FL,33428,Palm Beach,(561) 488-8100,Acute Care Hospitals,Proprietary,Yes,2,,
+West Boca Medical Center,21644 STATE RD 7,BOCA RATON,FL,33428,Palm Beach,(561) 488-8100,Acute Care Hospitals,Proprietary,Yes,2,26.3561486,-80.2013766
 Palms West Hospital,13001 SOUTHERN BLVD,LOXAHATCHEE,FL,33470,Palm Beach,(561) 753-4245,Acute Care Hospitals,Proprietary,Yes,2,26.6834185,-80.2526938
 Wellington Regional Medical Center Llc,10101 FOREST HILL BLVD,WELLINGTON,FL,33414,Palm Beach,(561) 798-8500,Acute Care Hospitals,Proprietary,Yes,2,26.65263455,-80.20502425
 Broward Health Coral Springs,3000 CORAL HILLS DR,CORAL SPRINGS,FL,33065,Broward,(954) 344-3121,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,26.26906575,-80.25570279
@@ -152,7 +152,7 @@ Cleveland Clinic Hospital,3100 WESTON RD,WESTON,FL,33331,Broward,(954) 689-5000,
 Melbourne Regional Medical Center,250 NORTH WICKHAM ROAD,MELBOURNE,FL,32935,Brevard,(321) 752-1200,Acute Care Hospitals,Proprietary,Yes,2,28.10903225,-80.67442261
 Sacred Heart Hospital On The Emerald Coast,7800 US HWY 98 W,MIRAMAR BEACH,FL,32550,Walton,(850) 278-3600,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,30.37840505,-86.30691321
 Doctors Hospital,5000 UNIVERSITY DR,CORAL GABLES,FL,33146,Miami-Dade,(305) 666-2111,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,25.72440985,-80.27406635
-Lakewood Ranch Medical Center,8330 LAKEWOOD RANCH BLVD,BRADENTON,FL,34202,Manatee,(941) 782-2100,Acute Care Hospitals,Proprietary,Yes,5,,
+Lakewood Ranch Medical Center,8330 LAKEWOOD RANCH BLVD,BRADENTON,FL,34202,Manatee,(941) 782-2100,Acute Care Hospitals,Proprietary,Yes,5,27.3909048,-82.43551337968651
 St Cloud Regional Medical Center,2906 17TH STREET,SAINT CLOUD,FL,34769,Osceola,(407) 498-3432,Acute Care Hospitals,Proprietary,Yes,3,28.24368745,-81.30333255
 Ascension St Vincent'S Southside,4201 BELFORT RD,JACKSONVILLE,FL,32216,Duval,(904) 296-3700,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,30.2542194,-81.58169747
 Ascension Sacred Heart Gulf,3801 E HWY 98,PORT SAINT JOE,FL,32456,Gulf,(850) 229-5600,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,,
@@ -163,18 +163,18 @@ Adventhealth Wesley Chapel,2600 BRUCE B DOWNS BLVD,WESLEY CHAPEL,FL,33544,Pasco,
 Poinciana Medical Center,325 CYPRESS PKWY,KISSIMMEE,FL,34758,Osceola,(407) 530-2000,Acute Care Hospitals,Proprietary,Yes,2,28.1444232,-81.47641072
 Ascension St Vincent'S Clay County,1670 ST VINCENTS WAY,MIDDLEBURG,FL,32068,Clay,(904) 602-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,30.1094042,-81.8321482
 Oviedo Medical Center,8300 RED BUG LAKE RD,OVIEDO,FL,32765,Seminole,(407) 890-2100,Acute Care Hospitals,Proprietary,Yes,2,28.65750655,-81.22744697
-Halifax Health /Uf Health Medical Center Of Delton,3300 HALIFAX CROSSINGS BLVD,DELTONA,FL,32725,Volusia,(386) 425-4806,Acute Care Hospitals,Government - Local,Yes,Not Available,28.9575855,-81.2548359
+Halifax Health /Uf Health Medical Center Of Delton,3300 HALIFAX CROSSINGS BLVD,DELTONA,FL,32725,Volusia,(386) 425-4806,Acute Care Hospitals,Government - Local,Yes,0,28.9575855,-81.2548359
 Adventhealth Wauchula,735 S 5TH AVE,WAUCHULA,FL,33873,Hardee,(863) 773-3101,Critical Access Hospitals,Voluntary non-profit - Private,Yes,5,27.5394499,-81.8073391
-Calhoun-Liberty Hospital,20370 NE BURNS AVE,BLOUNTSTOWN,FL,32424,Calhoun,(850) 674-5411,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,30.45869255,-85.05013755
-George E Weems Memorial Hospital,135 AVE G,APALACHICOLA,FL,32320,Franklin,(850) 653-8853,Critical Access Hospitals,Government - Local,Yes,Not Available,29.72438535,-84.99233662
+Calhoun-Liberty Hospital,20370 NE BURNS AVE,BLOUNTSTOWN,FL,32424,Calhoun,(850) 674-5411,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,30.45869255,-85.05013755
+George E Weems Memorial Hospital,135 AVE G,APALACHICOLA,FL,32320,Franklin,(850) 653-8853,Critical Access Hospitals,Government - Local,Yes,0,29.72438535,-84.99233662
 Northwest Florida Community Hospital,1360 BRICKYARD RD,CHIPLEY,FL,32428,Washington,(850) 638-1610,Critical Access Hospitals,Voluntary non-profit - Private,Yes,2,30.76556475,-85.54351948
 Hendry Regional Medical Center,524 W SAGAMORE AVE,CLEWISTON,FL,33440,Hendry,(863) 902-3033,Critical Access Hospitals,Voluntary non-profit - Other,Yes,3,26.75233955,-80.94122818
-Madison County Memorial Hospital,224 NW CRANE AVE,MADISON,FL,32340,Madison,(850) 973-2271,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,30.4713661,-83.41909876
-Fishermen'S Community Hospital,3301 OVERSEAS HWY,MARATHON,FL,33050,Monroe,(305) 743-5533,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,24.71055743,-81.09662878
+Madison County Memorial Hospital,224 NW CRANE AVE,MADISON,FL,32340,Madison,(850) 973-2271,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,30.4713661,-83.41909876
+Fishermen'S Community Hospital,3301 OVERSEAS HWY,MARATHON,FL,33050,Monroe,(305) 743-5533,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,24.71055743,-81.09662878
 Mariners Hospital,91500 OVERSEAS HIGHWAY,TAVERNIER,FL,33070,Monroe,(305) 434-3000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,25.0061577,-80.52213744
-Johns Hopkins All Children'S Hospital,501 SIXTH AVENUE SOUTH,SAINT PETERSBURG,FL,33701,Pinellas,(713) 898-7451,Childrens,Voluntary non-profit - Private,Yes,Not Available,27.76496205,-82.64059775
-Nicklaus Children'S Hospital,3100 SW 62ND AVE,MIAMI,FL,33155,Miami-Dade,(305) 666-6511,Childrens,Voluntary non-profit - Private,Yes,Not Available,25.74115405,-80.29451089
-Nemours Children'S Hospital,6535 NEMOURS PKWY,ORLANDO,FL,32827,Orange,(407) 567-4000,Childrens,Voluntary non-profit - Private,Yes,Not Available,28.377462,-81.2582678
+Johns Hopkins All Children'S Hospital,501 SIXTH AVENUE SOUTH,SAINT PETERSBURG,FL,33701,Pinellas,(713) 898-7451,Childrens,Voluntary non-profit - Private,Yes,0,27.76496205,-82.64059775
+Nicklaus Children'S Hospital,3100 SW 62ND AVE,MIAMI,FL,33155,Miami-Dade,(305) 666-6511,Childrens,Voluntary non-profit - Private,Yes,0,25.74115405,-80.29451089
+Nemours Children'S Hospital,6535 NEMOURS PKWY,ORLANDO,FL,32827,Orange,(407) 567-4000,Childrens,Voluntary non-profit - Private,Yes,0,28.377462,-81.2582678
 Hamilton Medical Center,1200 MEMORIAL DRIVE,DALTON,GA,30720,Whitfield,(706) 272-6105,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,34.7886079,-84.98408896
 Upson Regional Medical Center,801 W GORDON STREET,THOMASTON,GA,30286,Upson,(706) 647-8111,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,32.88590945,-84.33639409
 Mayo Clinic Health System In Waycross,1900 TEBEAU STREET,WAYCROSS,GA,31501,Ware,(912) 287-2500,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,31.22425015,-82.34789554
@@ -212,7 +212,7 @@ Union General Hospital,35 HOSPITAL ROAD,BLAIRSVILLE,GA,30512,Union,(706) 745-211
 Floyd Medical Center,304 TURNER MCCALL BLVD P O BOX 233,ROME,GA,30162,Floyd,(706) 509-6900,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,34.25913855,-85.17835061
 Piedmont Columbus Regional Midtown,710 CENTER STREET,COLUMBUS,GA,31901,Muscogee,(706) 571-1000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,2,32.4806319,-84.98273258
 Houston Medical Center,1601 WATSON BOULEVARD,WARNER ROBINS,GA,31093,Houston,(478) 922-4281,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,32.6166157,-83.63073654
-Appling Hospital,163 E TOLLISON STREET,BAXLEY,GA,31513,Appling,(912) 367-9841,Acute Care Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.7689278,-82.34843509
+Appling Hospital,163 E TOLLISON STREET,BAXLEY,GA,31513,Appling,(912) 367-9841,Acute Care Hospitals,Government - Hospital District or Authority,Yes,0,31.7689278,-82.34843509
 Dorminy Medical Center,"200 PERRY HOUSE ROAD, BOX 1447",FITZGERALD,GA,31750,Ben Hill,(229) 424-7100,Acute Care Hospitals,Government - Local,Yes,2,31.69736595,-83.25990618
 Piedmont Athens Regional Medical Center,1199 PRINCE AVENUE,ATHENS,GA,30606,Clarke,(706) 475-7000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,33.96067055,-83.39945648
 East Georgia Regional Medical Center,1499 FAIR ROAD,STATESBORO,GA,30458,Bulloch,(912) 486-1500,Acute Care Hospitals,Proprietary,Yes,3,32.41478795,-81.77036096
@@ -221,25 +221,25 @@ Emory University Hospital Midtown,"550 PEACHTREE STREET,  NE",ATLANTA,GA,30308,F
 Grady Memorial Hospital,"80 JESSE HILL, JR DRIVE SE",ATLANTA,GA,30303,Fulton,(404) 616-4252,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,33.7517323,-84.38200521
 "Saint Joseph'S Hospital Of Atlanta, Inc",5665 PEACHTREE DUNWOODY ROAD,ATLANTA,GA,30342,Fulton,(678) 843-5720,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,33.9092071,-84.34918344
 Piedmont Hospital,1968 PEACHTREE RD NW,ATLANTA,GA,30309,Fulton,(404) 605-5000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,33.8093759,-84.39542732
-Washington County Regional Medical Center,610 SPARTA ROAD,SANDERSVILLE,GA,31082,Washington,(478) 240-2100,Acute Care Hospitals,Government - Hospital District or Authority,Yes,Not Available,32.9955768,-82.8044347
+Washington County Regional Medical Center,610 SPARTA ROAD,SANDERSVILLE,GA,31082,Washington,(478) 240-2100,Acute Care Hospitals,Government - Hospital District or Authority,Yes,0,32.9955768,-82.8044347
 Northside Hospital Gwinnett,1000 MEDICAL CENTER BOULEVARD,LAWRENCEVILLE,GA,30046,Gwinnett,(678) 312-1000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,33.96318035,-84.01696666
 "Coffee Regional Medical Center, Inc",1101 OCILLA ROAD,DOUGLAS,GA,31533,Atkinson,(912) 383-5620,Acute Care Hospitals,Government - Hospital District or Authority,Yes,1,31.51083115,-82.86411261
 Dodge County Hospital,901 GRIFFIN AVE,EASTMAN,GA,31023,Dodge,(478) 448-4067,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,32.1852265,-83.17781055
 Tift Regional Medical Center,901 E 18TH STREET,TIFTON,GA,31793,Tift,(229) 382-7120,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,31.4706794,-83.5031204
-Jefferson Hospital,1067 PEACHTREE ST,LOUISVILLE,GA,30434,Jefferson,(478) 625-7000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,Not Available,33.0101744,-82.40552608
-Cook  Medical Center  A Campus Of Tift Reg Med Ctr,260 MJ TAYLOR ROAD,ADEL,GA,31620,Cook,(229) 896-8077,Acute Care Hospitals,Proprietary,Yes,Not Available,,
+Jefferson Hospital,1067 PEACHTREE ST,LOUISVILLE,GA,30434,Jefferson,(478) 625-7000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,0,33.0101744,-82.40552608
+Cook  Medical Center  A Campus Of Tift Reg Med Ctr,260 MJ TAYLOR ROAD,ADEL,GA,31620,Cook,(229) 896-8077,Acute Care Hospitals,Proprietary,Yes,0,,
 Crisp Regional Hospital,902 7TH STREET NORTH,CORDELE,GA,31015,Crisp,(229) 276-3100,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,31.97761035,-83.78126827
 Colquitt Regional Medical Center,3131 THOMASVILLE HWY BOX 40,MOULTRIE,GA,31768,Colquitt,(229) 985-3420,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,31.12605395,-83.78031518
 "Medical Center, Navicent Health (The)",777 HEMLOCK STREET,MACON,GA,31201,Bibb,(478) 633-1000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,32.834028,-83.6362914
 Emanuel Medical Center,117 KITE ROAD,SWAINSBORO,GA,30401,Emanuel,(478) 289-1304,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,32.5925732,-82.34734708
 University Mcduffie County Regional Medical Center,2460 WASHINGTON ROAD,THOMSON,GA,30824,McDuffie,(706) 595-1411,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,33.5232026,-82.50236879
-Burke Medical Center,351 SOUTH LIBERTY STREET,WAYNESBORO,GA,30830,Burke,(706) 554-4435,Acute Care Hospitals,Proprietary,Yes,Not Available,33.08307935,-82.01292169
+Burke Medical Center,351 SOUTH LIBERTY STREET,WAYNESBORO,GA,30830,Burke,(706) 554-4435,Acute Care Hospitals,Proprietary,Yes,0,33.08307935,-82.01292169
 Wellstar Atlanta Medical Center,"303 PARKWAY DRIVE, NE",ATLANTA,GA,30312,Fulton,(404) 265-4000,Acute Care Hospitals,Proprietary,Yes,1,33.76285845,-84.37309676
 Grady General Hospital,"1155 5TH STREET, SE",CAIRO,GA,39828,Grady,(229) 377-0251,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,30.86378085,-84.19931475
 South Georgia Medical Center,"2501 NORTH PATTERSON STREET, PO BOX 1727",VALDOSTA,GA,31602,Lowndes,(229) 333-1020,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,30.8614322,-83.28662684
 Wayne Memorial Hospital,865 SOUTH FIRST STREET,JESUP,GA,31545,Wayne,(912) 530-3302,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,31.6008496,-81.90026104
 Fairview Park Hospital,200 INDUSTRIAL BOULEVARD,DUBLIN,GA,31021,Laurens,(478) 274-3100,Acute Care Hospitals,Proprietary,Yes,5,32.5320682,-82.95016705
-Memorial Health Meadows Hospital,ONE MEADOWS PARKWAY,VIDALIA,GA,30474,Toombs,(912) 535-5828,Acute Care Hospitals,Proprietary,Yes,5,,
+Memorial Health Meadows Hospital,ONE MEADOWS PARKWAY,VIDALIA,GA,30474,Toombs,(912) 535-5828,Acute Care Hospitals,Proprietary,Yes,5,32.20811925,-82.37529537067572
 St Francis Hospital- Emory Healthcare,2122 MANCHESTER EXPRESSWAY,COLUMBUS,GA,31995,Muscogee,(706) 596-4020,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,32.5208763,-84.8990862
 Memorial Hospital And Manor,1500 E SHOTWELL STREET,BAINBRIDGE,GA,39819,Decatur,(229) 246-3500,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,30.90289595,-84.55223677
 Taylor Regional Hospital,222 PERRY HWY,HAWKINSVILLE,GA,31036,Pulaski,(478) 783-0200,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,32.29786495,-83.48471526
@@ -257,50 +257,50 @@ Wellstar Douglas Hospital,8954 HOSPITAL DRIVE,DOUGLASVILLE,GA,30134,Douglas,(770
 Fannin Regional Hospital,2855 OLD HIGHWAY 5 NORTH,BLUE RIDGE,GA,30513,Fannin,(706) 632-3711,Acute Care Hospitals,Proprietary,Yes,3,34.91719795,-84.37473885
 Piedmont Henry Hospital,1133 EAGLE'S LANDING PARKWAY,STOCKBRIDGE,GA,30281,Henry,(678) 604-1000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,33.5112611,-84.22713718
 Eastside Medical Center,1700 MEDICAL WAY,SNELLVILLE,GA,30078,Gwinnett,(770) 736-2498,Acute Care Hospitals,Proprietary,Yes,2,33.8766816,-84.02151503
-Donalsonville Hospital Inc,102 HOSPITAL CIR,DONALSONVILLE,GA,39845,Seminole,(229) 524-5217,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available,,
+Donalsonville Hospital Inc,102 HOSPITAL CIR,DONALSONVILLE,GA,39845,Seminole,(229) 524-5217,Acute Care Hospitals,Voluntary non-profit - Private,Yes,0,,
 Wellstar North Fulton Hospital,3000 HOSPITAL BOULEVARD,ROSWELL,GA,30076,Fulton,(770) 751-2500,Acute Care Hospitals,Proprietary,Yes,3,34.06313805,-84.32016913
 Coliseum Northside Hospital,400 CHARTER BOULEVARD,MACON,GA,31210,Bibb,(478) 757-8200,Acute Care Hospitals,Proprietary,Yes,4,32.87147215,-83.69445192
 Piedmont Fayette Hospital,1255 HIGHWAY 54 WEST,FAYETTEVILLE,GA,30214,Fayette,(770) 719-7000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,33.45314975,-84.50780215
-Piedmont Mountainside Hospital Inc,1266 HIGHWAY 515 SOUTH,JASPER,GA,30143,Pickens,(706) 301-5269,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,,
+Piedmont Mountainside Hospital Inc,1266 HIGHWAY 515 SOUTH,JASPER,GA,30143,Pickens,(706) 301-5269,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,34.44646615,-84.44717861993055
 Emory Hillandale Hospital,2801 DEKALB MEDICAL PARKWAY,LITHONIA,GA,30058,DeKalb,(404) 501-8040,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,33.7057912,-84.14831144
 "Piedmont Newnan Hospital, Inc",745 POPLAR ROAD,NEWNAN,GA,30265,Coweta,(770) 400-2300,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,33.3575598,-84.75557048
 Emory Johns Creek Hospital,6325 HOSPITAL PARKWAY,JOHNS CREEK,GA,30097,Gwinnett,(678) 474-7000,Acute Care Hospitals,Proprietary,Yes,3,34.0668824,-84.1761616
-Sgmc Berrien Campus,1221 E MCPHERSON AVENUE,NASHVILLE,GA,31639,Berrien,(229) 543-7100,Acute Care Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.2026956,-83.23870835
-Chi Memorial Hospital- Georgia,100 GROSS CRESCENT CIRCLE,FORT OGLETHORPE,GA,30742,Catoosa,(770) 874-5400,Acute Care Hospitals,Proprietary,Yes,Not Available,34.94672425,-85.2635867
-Northeast Georgia Medical Center Lumpkin,227 MOUNTAIN DRIVE,DAHLONEGA,GA,30533,Lumpkin,(770) 219-7146,Acute Care Hospitals,Voluntary non-profit - Other,Yes,Not Available,34.52281985,-83.97554514
-Martin Ach (Ft Benning),7950 Martin Loop,Fort Benning,GA,31905,Chattahoochee,(762) 408-2604,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,,
-Dwight Eisenhower Amc (Ft Gordon),300 East Hospital Road,Fort Gordon,GA,30905,Richmond,(706) 787-5811,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,33.4303378,-82.125856
-Winn Ach (Ft Stewart),1061 Harmon Avenue,Fort Stewart,GA,31314,Liberty,(912) 435-6633,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,31.8720935,-81.60060483
-Bleckley Memorial Hospital,145 PEACOCK STREET,COCHRAN,GA,31014,Bleckley,(478) 934-6211,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,32.384365,-83.34626949
-Jasper Memorial Hospital,898 COLLEGE STREET,MONTICELLO,GA,31064,Jasper,(706) 468-6411,Critical Access Hospitals,Government - Local,Yes,Not Available,33.3144326,-83.68634315
-Morgan Medical Center,1740 LIONS CLUB ROAD,MADISON,GA,30650,Morgan,(706) 342-1667,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,33.5702383,-83.4662502
-Miller County Hospital,209 N CUTHBERT STREET,COLQUITT,GA,39837,Miller,(229) 758-4231,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.17511395,-84.73526822
-Effingham Health System,459 GA HIGHWAY 119 SOUTH,SPRINGFIELD,GA,31329,Effingham,(912) 754-0160,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,,
-Clinch Memorial Hospital,1050 VALDOSTA HIGHWAY,HOMERVILLE,GA,31634,Clinch,(912) 487-5211,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.03392255,-82.76442919
-"Medical Center Of Peach County, Navicent Health",1960 HIGHWAY 247 CONNECTOR,BYRON,GA,31008,Peach,(478) 654-2000,Critical Access Hospitals,Government - Hospital District or Authority,Yes,4,,
-Jenkins County Medical Center,931 EAST WINTHROPE AVENUE,MILLEN,GA,30442,Jenkins,(478) 982-4221,Critical Access Hospitals,Proprietary,Yes,Not Available,32.8043291,-81.9345588
-Optim Medical Center - Screven,215 MIMS ROAD,SYLVANIA,GA,30467,Screven,(912) 564-7426,Critical Access Hospitals,Proprietary,Yes,Not Available,32.75004685,-81.64696164
-Putnam General Hospital,101 LAKE OCONEE PARKWAY,EATONTON,GA,31024,Putnam,(706) 485-2711,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,33.3352564,-83.37141448
-Lifebrite Community Hospital Of Early,11740 COLUMBIA STREET,BLAKELY,GA,39823,Early,(229) 723-4241,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,,
-Warm Springs Medical Center,5995 SPRING STREET,WARM SPRINGS,GA,31830,Meriwether,(706) 655-9351,Critical Access Hospitals,Voluntary non-profit - Other,Yes,Not Available,32.8898199,-84.68298392
-Monroe County Hospital,88 MARTIN LUTHER KING JR DRIVE,FORSYTH,GA,31029,Monroe,(478) 994-2521,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,33.03167095,-83.94558949
-Higgins General Hospital,200 ALLEN MEMORIAL DRIVE,BREMEN,GA,30110,Haralson,(770) 812-2000,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,33.71693155,-85.14508422
-Optim Medical Center - Tattnall,247 S MAIN STREET,REIDSVILLE,GA,30453,Tattnall,(912) 557-1000,Critical Access Hospitals,Proprietary,Yes,Not Available,32.080061,-82.10888086
+Sgmc Berrien Campus,1221 E MCPHERSON AVENUE,NASHVILLE,GA,31639,Berrien,(229) 543-7100,Acute Care Hospitals,Government - Hospital District or Authority,Yes,0,31.2026956,-83.23870835
+Chi Memorial Hospital- Georgia,100 GROSS CRESCENT CIRCLE,FORT OGLETHORPE,GA,30742,Catoosa,(770) 874-5400,Acute Care Hospitals,Proprietary,Yes,0,34.94672425,-85.2635867
+Northeast Georgia Medical Center Lumpkin,227 MOUNTAIN DRIVE,DAHLONEGA,GA,30533,Lumpkin,(770) 219-7146,Acute Care Hospitals,Voluntary non-profit - Other,Yes,0,34.52281985,-83.97554514
+Martin Ach (Ft Benning),7950 Martin Loop,Fort Benning,GA,31905,Chattahoochee,(762) 408-2604,Acute Care - Department of Defense,Department of Defense,Yes,0,,
+Dwight Eisenhower Amc (Ft Gordon),300 East Hospital Road,Fort Gordon,GA,30905,Richmond,(706) 787-5811,Acute Care - Department of Defense,Department of Defense,Yes,0,33.4303378,-82.125856
+Winn Ach (Ft Stewart),1061 Harmon Avenue,Fort Stewart,GA,31314,Liberty,(912) 435-6633,Acute Care - Department of Defense,Department of Defense,Yes,0,31.8720935,-81.60060483
+Bleckley Memorial Hospital,145 PEACOCK STREET,COCHRAN,GA,31014,Bleckley,(478) 934-6211,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,32.384365,-83.34626949
+Jasper Memorial Hospital,898 COLLEGE STREET,MONTICELLO,GA,31064,Jasper,(706) 468-6411,Critical Access Hospitals,Government - Local,Yes,0,33.3144326,-83.68634315
+Morgan Medical Center,1740 LIONS CLUB ROAD,MADISON,GA,30650,Morgan,(706) 342-1667,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,33.5702383,-83.4662502
+Miller County Hospital,209 N CUTHBERT STREET,COLQUITT,GA,39837,Miller,(229) 758-4231,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,31.17511395,-84.73526822
+Effingham Health System,459 GA HIGHWAY 119 SOUTH,SPRINGFIELD,GA,31329,Effingham,(912) 754-0160,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,,
+Clinch Memorial Hospital,1050 VALDOSTA HIGHWAY,HOMERVILLE,GA,31634,Clinch,(912) 487-5211,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,31.03392255,-82.76442919
+"Medical Center Of Peach County, Navicent Health",1960 HIGHWAY 247 CONNECTOR,BYRON,GA,31008,Peach,(478) 654-2000,Critical Access Hospitals,Government - Hospital District or Authority,Yes,4,32.6050607,-83.75895008603416
+Jenkins County Medical Center,931 EAST WINTHROPE AVENUE,MILLEN,GA,30442,Jenkins,(478) 982-4221,Critical Access Hospitals,Proprietary,Yes,0,32.8043291,-81.9345588
+Optim Medical Center - Screven,215 MIMS ROAD,SYLVANIA,GA,30467,Screven,(912) 564-7426,Critical Access Hospitals,Proprietary,Yes,0,32.75004685,-81.64696164
+Putnam General Hospital,101 LAKE OCONEE PARKWAY,EATONTON,GA,31024,Putnam,(706) 485-2711,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,33.3352564,-83.37141448
+Lifebrite Community Hospital Of Early,11740 COLUMBIA STREET,BLAKELY,GA,39823,Early,(229) 723-4241,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,,
+Warm Springs Medical Center,5995 SPRING STREET,WARM SPRINGS,GA,31830,Meriwether,(706) 655-9351,Critical Access Hospitals,Voluntary non-profit - Other,Yes,0,32.8898199,-84.68298392
+Monroe County Hospital,88 MARTIN LUTHER KING JR DRIVE,FORSYTH,GA,31029,Monroe,(478) 994-2521,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,33.03167095,-83.94558949
+Higgins General Hospital,200 ALLEN MEMORIAL DRIVE,BREMEN,GA,30110,Haralson,(770) 812-2000,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,33.71693155,-85.14508422
+Optim Medical Center - Tattnall,247 S MAIN STREET,REIDSVILLE,GA,30453,Tattnall,(912) 557-1000,Critical Access Hospitals,Proprietary,Yes,0,32.080061,-82.10888086
 Chatuge Regional Hospital,110 S MAIN STREET,HIAWASSEE,GA,30546,Towns,(706) 896-2222,Critical Access Hospitals,Government - Hospital District or Authority,Yes,4,34.94687505,-83.75369126
 Wills Memorial Hospital,120 GORDON STREET,WASHINGTON,GA,30673,Wilkes,(706) 678-9212,Critical Access Hospitals,Government - Hospital District or Authority,Yes,3,33.7285564,-82.74269762
-Sgmc Lanier Campus,116 WEST THIGPEN AVENUE,LAKELAND,GA,31635,Lanier,(229) 482-8402,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.04210655,-83.08630228
+Sgmc Lanier Campus,116 WEST THIGPEN AVENUE,LAKELAND,GA,31635,Lanier,(229) 482-8402,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,31.04210655,-83.08630228
 Bacon County Hospital,302 SOUTH WAYNE STREET,ALMA,GA,31510,Bacon,(912) 632-8961,Critical Access Hospitals,Voluntary non-profit - Other,Yes,2,31.5391683,-82.4581429
-Phoebe Worth Medical Center,807 SOUTH ISABELLA STREET,SYLVESTER,GA,31791,Worth,(229) 777-3851,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,31.51188845,-83.83985444
+Phoebe Worth Medical Center,807 SOUTH ISABELLA STREET,SYLVESTER,GA,31791,Worth,(229) 777-3851,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,31.51188845,-83.83985444
 St. Mary'S Good Samaritan Hospital,5401 LAKE OCONEE PARKWAY,GREENSBORO,GA,30642,Greene,(706) 453-7331,Critical Access Hospitals,Proprietary,Yes,2,33.4820509,-83.24204571
-Polk Medical Center,2360 ROCKMART HIGHWAY,CEDARTOWN,GA,30125,Polk,(770) 748-2500,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,34.014291,-85.19619556
-Mitchell County Hospital,90 STEPHENS STREET,CAMILLA,GA,31730,Mitchell,(229) 336-5284,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.2295186,-84.20544086
-Brooks County Hospital,903 N COURT STREET,QUITMAN,GA,31643,Brooks,(912) 263-4171,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,30.79517535,-83.55903063
-Jeff Davis Hospital,163 SOUTH TALLAHASSEE STREET,HAZLEHURST,GA,31539,Jeff Davis,(912) 375-7781,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.85720295,-82.60709823
-Candler County Hospital,400 CEDAR STREET,METTER,GA,30439,Candler,(912) 685-5741,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,32.40723255,-82.06577234
-Liberty Regional Medical Center,462 E G MILES PARKWAY,HINESVILLE,GA,31310,Liberty,(912) 369-9438,Critical Access Hospitals,Government - Hospital District or Authority,Yes,Not Available,31.84006965,-81.60128751
-Mountain Lakes Medical Center,162 LEGACY POINT,CLAYTON,GA,30525,Rabun,(706) 782-3100,Critical Access Hospitals,Proprietary,Yes,Not Available,34.8838527,-83.41504931
-Children'S Healthcare Of Atlanta At Egleston,"1405 CLIFTON ROAD, NE",ATLANTA,GA,30322,DeKalb,(404) 785-6101,Childrens,Voluntary non-profit - Private,Yes,Not Available,33.79356545,-84.31985887
-Children'S Healthcare Of Atlanta At Scottish Rite,1001 JOHNSON FERRY ROAD,ATLANTA,GA,30342,Fulton,(404) 785-5252,Childrens,Voluntary non-profit - Other,Yes,Not Available,,
+Polk Medical Center,2360 ROCKMART HIGHWAY,CEDARTOWN,GA,30125,Polk,(770) 748-2500,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,34.014291,-85.19619556
+Mitchell County Hospital,90 STEPHENS STREET,CAMILLA,GA,31730,Mitchell,(229) 336-5284,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,31.2295186,-84.20544086
+Brooks County Hospital,903 N COURT STREET,QUITMAN,GA,31643,Brooks,(912) 263-4171,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,30.79517535,-83.55903063
+Jeff Davis Hospital,163 SOUTH TALLAHASSEE STREET,HAZLEHURST,GA,31539,Jeff Davis,(912) 375-7781,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,31.85720295,-82.60709823
+Candler County Hospital,400 CEDAR STREET,METTER,GA,30439,Candler,(912) 685-5741,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,32.40723255,-82.06577234
+Liberty Regional Medical Center,462 E G MILES PARKWAY,HINESVILLE,GA,31310,Liberty,(912) 369-9438,Critical Access Hospitals,Government - Hospital District or Authority,Yes,0,31.84006965,-81.60128751
+Mountain Lakes Medical Center,162 LEGACY POINT,CLAYTON,GA,30525,Rabun,(706) 782-3100,Critical Access Hospitals,Proprietary,Yes,0,34.8838527,-83.41504931
+Children'S Healthcare Of Atlanta At Egleston,"1405 CLIFTON ROAD, NE",ATLANTA,GA,30322,DeKalb,(404) 785-6101,Childrens,Voluntary non-profit - Private,Yes,0,33.79356545,-84.31985887
+Children'S Healthcare Of Atlanta At Scottish Rite,1001 JOHNSON FERRY ROAD,ATLANTA,GA,30342,Fulton,(404) 785-5252,Childrens,Voluntary non-profit - Other,Yes,0,,
 Meritus Medical Center,11116 MEDICAL CAMPUS ROAD,HAGERSTOWN,MD,21742,Washington,(240) 313-9500,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,33.7832421,-83.71838709
 University Of Maryland Medical Center,22 SOUTH  GREENE STREET,BALTIMORE,MD,21201,Baltimore City,(410) 328-8667,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,39.6223443,-77.68417602
 Um Capital Region Medical Center,901 NORTH HARRY S TRUMAN DRIVE,LARGO,MD,20774,Prince Georges,(301) 618-2000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,39.28827365,-76.62439437
@@ -313,7 +313,7 @@ Sinai Hospital Of Baltimore,2401 WEST BELVEDERE AVENUE,BALTIMORE,MD,21215,Baltim
 "Grace Medical Center, Inc",2000 W BALTIMORE STREET,BALTIMORE,MD,21223,Baltimore City,(410) 362-3000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,39.35289645,-76.66228716
 Medstar Franklin Square Medical Center,9000 FRANKLIN SQUARE DRIVE,BALTIMORE,MD,21237,Baltimore,(443) 777-7850,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,39.2890051,-76.64941352
 Adventist Healthcare White Oak Medical Center,11890 HEALING WAY,SILVER SPRING,MD,20904,Montgomery,(301) 891-5651,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,39.3519063,-76.47922353
-Garrett County Memorial Hospital,251 NORTH  FOURTH STREET,OAKLAND,MD,21550,Garrett,(301) 533-4173,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,,
+Garrett County Memorial Hospital,251 NORTH  FOURTH STREET,OAKLAND,MD,21550,Garrett,(301) 533-4173,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,39.4136759,-79.40111797275904
 Medstar Montgomery Medical Center,18101 PRINCE PHILIP DRIVE,OLNEY,MD,20832,Montgomery,(301) 774-8771,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,39.4136759,-79.40111797
 Peninsula Regional Medical Center,100 EAST CARROLL AVENUE,SALISBURY,MD,21801,Wicomico,(410) 546-6400,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,39.1535381,-77.05472085
 Suburban Hospital,8600 OLD GEORGETOWN ROAD,BETHESDA,MD,20814,Montgomery,(301) 896-2576,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,38.361208,-75.59908584
@@ -342,8 +342,8 @@ Atlantic General Hospital,9733 HEALTHWAY DRIVE,BERLIN,MD,21811,Worcester,(410) 6
 Medstar Southern Maryland Hospital Center,7503 SURRATTS ROAD,CLINTON,MD,20735,Prince Georges,(301) 868-8000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,38.3382385,-75.21047589
 University Of Md St Joseph Medical Center,7601 OSLER DRIVE,TOWSON,MD,21204,Baltimore,(410) 337-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,38.74841485,-76.8757199
 Holy Cross Germantown Hospital,19801 OBSERVATION DRIVE,GERMANTOWN,MD,20876,Montgomery,(301) 557-6020,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,39.35412555,-76.66539357
-Walter Reed National Military Med Cen,8901 Rockville Pike,Bethesda,MD,20889,Montgomery,(301) 295-4000,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,39.1820436,-77.2428068
-Kennedy Krieger Institute,707 NORTH  BROADWAY,BALTIMORE,MD,21205,Baltimore City,(443) 923-9301,Childrens,Voluntary non-profit - Private,Yes,Not Available,39.3630752,-76.65282335
+Walter Reed National Military Med Cen,8901 Rockville Pike,Bethesda,MD,20889,Montgomery,(301) 295-4000,Acute Care - Department of Defense,Department of Defense,Yes,0,39.1820436,-77.2428068
+Kennedy Krieger Institute,707 NORTH  BROADWAY,BALTIMORE,MD,21205,Baltimore City,(443) 923-9301,Childrens,Voluntary non-profit - Private,Yes,0,39.3630752,-76.65282335
 Carolinas Medical Center-Northeast,920 CHURCH ST N,CONCORD,NC,28025,Cabarrus,(704) 783-3000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,39.26533875,-76.72075723
 Memorial Mission Hospital And Asheville Surgery Ce,509 BILTMORE AVE,ASHEVILLE,NC,28801,Buncombe,(828) 213-1111,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.43761825,-80.60209038
 Northern Regional Hospital,830 ROCKFORD ST,MOUNT AIRY,NC,27030,Surry,(336) 719-7000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,35.5766889,-82.54922486
@@ -351,7 +351,7 @@ High Point Regional Health System,601 N ELM ST,HIGH POINT,NC,27261,Guilford,(336
 Scotland Memorial Hospital,500 LAUCHWOOD DR,LAURINBURG,NC,28352,Scotland,(910) 291-7000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.9618482,-80.01364972
 Wayne Memorial Hospital,2700 WAYNE MEMORIAL DR,GOLDSBORO,NC,27534,Wayne,(919) 736-1110,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,34.75273785,-79.46884571
 Rutherford Regional Medical Center,288 SOUTH RIDGECREST AVE,RUTHERFORDTON,NC,28139,Rutherford,(828) 286-5000,Acute Care Hospitals,Proprietary,Yes,2,35.39867825,-77.95247964
-Novant Health Forsyth Medical Center,3333 SILAS CREEK PARKWAY,WINSTON-SALEM,NC,27103,Forsyth,(336) 718-5000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,,
+Novant Health Forsyth Medical Center,3333 SILAS CREEK PARKWAY,WINSTON-SALEM,NC,27103,Forsyth,(336) 718-5000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,36.0740685221496,-80.29853870356067
 Novant Health Rowan Medical Center,612 MOCKSVILLE AVE,SALISBURY,NC,28144,Rowan,(704) 210-5000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,36.07406852,-80.2985387
 Harris Regional Hospital,68 HOSPITAL RD,SYLVA,NC,28779,Jackson,(828) 586-7000,Acute Care Hospitals,Proprietary,Yes,3,35.6816495,-80.47113042
 Margaret R Pardee Memorial Hospital,800 N JUSTICE ST,HENDERSONVILLE,NC,28791,Henderson,(828) 696-1000,Acute Care Hospitals,Government - Local,Yes,4,35.3854052,-83.20260902
@@ -380,12 +380,12 @@ Alamance Regional Medical Center,1240 HUFFMAN MILL RD,BURLINGTON,NC,27216,Alaman
 Betsy Johnson Regional Hospital,800 TILGHMAN DR,DUNN,NC,28334,Harnett,(910) 892-7161,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,36.061832,-79.50137695
 Duke Health Raleigh Hospital,3400 WAKE FOREST RD,RALEIGH,NC,27609,Wake,(919) 954-3000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,35.3073048,-78.63507087
 Carolinas Healthcare System-Blue Ridge,2201 S STERLING ST,MORGANTON,NC,28655,Burke,(828) 580-5000,Acute Care Hospitals,Proprietary,Yes,4,35.82859565,-78.61794743
-Atrium Health Anson,2301 US HIGHWAY 74 WEST,WADESBORO,NC,28170,Anson,(704) 694-5131,Acute Care Hospitals,Government - Hospital District or Authority,Yes,Not Available,35.72647905,-81.65523265
-Novant Health Thomasville Medical Center,207 OLD LEXINGTON RD BOX 789,THOMASVILLE,NC,27360,Davidson,(336) 472-2000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,,
+Atrium Health Anson,2301 US HIGHWAY 74 WEST,WADESBORO,NC,28170,Anson,(704) 694-5131,Acute Care Hospitals,Government - Hospital District or Authority,Yes,0,35.72647905,-81.65523265
+Novant Health Thomasville Medical Center,207 OLD LEXINGTON RD BOX 789,THOMASVILLE,NC,27360,Davidson,(336) 472-2000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.87976465,-80.11108959018533
 The Mcdowell Hospital,430 RANKIN DRIVE P O BOX 730,MARION,NC,28752,McDowell,(828) 659-5000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,,
-Johnston Health,509 BRIGHT LEAF BLVD,SMITHFIELD,NC,27577,Johnston,(919) 934-8171,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,,
+Johnston Health,509 BRIGHT LEAF BLVD,SMITHFIELD,NC,27577,Johnston,(919) 934-8171,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,35.5156497,-78.33349833769957
 "Moses H. Cone Memorial Hospital, The",1200 N ELM ST,GREENSBORO,NC,27401,Guilford,(336) 832-7000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,35.5156497,-78.33349834
-Lexington Memorial Hospital Inc,250 HOSPITAL DRIVE PO BOX 1817,LEXINGTON,NC,27293,Davidson,(336) 248-5161,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,,
+Lexington Memorial Hospital Inc,250 HOSPITAL DRIVE PO BOX 1817,LEXINGTON,NC,27293,Davidson,(336) 248-5161,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.80575965,-80.28693632324206
 Hugh Chatham Memorial Hospital,180 PARKWOOD DR,ELKIN,NC,28621,Surry,(336) 527-7000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,,
 Carolinas Medical Center-Pineville,10628 PARK RD,CHARLOTTE,NC,28210,Mecklenburg,(704) 379-5000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,36.2618023,-80.83910119
 Vidant Roanoke Chowan Hospital,500 S ACADEMY ST,AHOSKIE,NC,27910,Hertford,(252) 209-3000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.09203755,-80.87159653
@@ -396,7 +396,7 @@ Rex Hospital,4420 LAKE BOONE TRAIL,RALEIGH,NC,27607,Wake,(919) 784-3100,Acute Ca
 Firsthealth Moore Regional Hospital,155 MEMORIAL DRIVE,PINEHURST,NC,28374,Moore,(910) 715-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.8181161,-78.7032625
 Frye Regional Medical Center,420 N CENTER ST,HICKORY,NC,28601,Catawba,(828) 322-6070,Acute Care Hospitals,Proprietary,Yes,3,35.2059281,-79.45629908
 Stanly Regional Medical Center,301 YADKIN ST,ALBEMARLE,NC,28001,Stanly,(704) 984-4000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.7373084,-81.33809331
-Nmc Camp Lejeune,100 Brewster Boulevard,Camp Lejeune,NC,28547,Onslow,(910) 450-4300,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,35.3640747,-80.19445209
+Nmc Camp Lejeune,100 Brewster Boulevard,Camp Lejeune,NC,28547,Onslow,(910) 450-4300,Acute Care - Department of Defense,Department of Defense,Yes,0,35.3640747,-80.19445209
 Vidant Duplin Hospital,401 N MAIN ST,KENANSVILLE,NC,28349,Duplin,(910) 296-0941,Acute Care Hospitals,Government - Local,Yes,3,34.716813,-77.3559101
 Randolph Hospital,364 WHITE OAK STREET,ASHEBORO,NC,27204,Randolph,(336) 625-5151,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,34.9648246,-77.96186573
 Wilson Medical Center,1705 S TARBORO ST,WILSON,NC,27893,Wilson,(252) 399-8040,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,35.7114241,-79.81438339
@@ -412,33 +412,33 @@ Catawba Valley Medical Center,810 FAIRGROVE CHURCH RD,HICKORY,NC,28602,Catawba,(
 Davis Regional Medical Center,218 OLD MOCKSBVILLE RD PO BOX 1823,STATESVILLE,NC,28687,Iredell,(704) 873-0281,Acute Care Hospitals,Proprietary,Yes,4,35.7144209,-81.26713921
 Atrium Health Lincoln,433 MCALISTER RD,LINCOLNTON,NC,28092,Lincoln,(980) 212-2000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,35.8191549,-80.82917194
 Nash General Hospital,2460 CURTIS ELLIS DRIVE,ROCKY MOUNT,NC,27804,Nash,(252) 443-8000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,35.4900947,-81.20307636
-Womack Amc (Ft Bragg),2817 Reilly Road,Fort Bragg,NC,28307,Cumberland,(910) 907-9262,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,36.07897555,-80.29607896
+Womack Amc (Ft Bragg),2817 Reilly Road,Fort Bragg,NC,28307,Cumberland,(910) 907-9262,Acute Care - Department of Defense,Department of Defense,Yes,0,36.07897555,-80.29607896
 Halifax Regional Medical Center Inc,250 SMITH CHURCH RD,ROANOKE RAPIDS,NC,27870,Halifax,(252) 535-8005,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,35.14579175,-79.00237658
 Duke Regional Hospital,3643 N ROXBORO STREET,DURHAM,NC,27704,Durham,(919) 470-4000,Acute Care Hospitals,Government - Local,Yes,4,36.4324228,-77.64626592
-Cherokee Indian Hospital Authority,CALLER BOX C268,CHEROKEE,NC,28719,Swain,(828) 497-9163,Acute Care Hospitals,Government - Federal,Yes,Not Available,36.03674895,-78.90020536
-Novant Health Brunswick Medical Center,1 MEDICAL CENTER DR  PO BOX 139,SUPPLY,NC,28462,Brunswick,(910) 755-8121,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,,
+Cherokee Indian Hospital Authority,CALLER BOX C268,CHEROKEE,NC,28719,Swain,(828) 497-9163,Acute Care Hospitals,Government - Federal,Yes,0,36.03674895,-78.90020536
+Novant Health Brunswick Medical Center,1 MEDICAL CENTER DR  PO BOX 139,SUPPLY,NC,28462,Brunswick,(910) 755-8121,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,34.0092114,-78.2919618
 Person Memorial Hospital,615 RIDGE RD,ROXBORO,NC,27573,Person,(336) 599-2121,Acute Care Hospitals,Proprietary,Yes,2,,
 Atrium Health University City,8800 NORTH TYRON STREET,CHARLOTTE,NC,28262,Mecklenburg,(704) 548-6000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,36.40848405,-78.98524838
 Novant Health Matthews Medical Center,1500 MATTHEWS TWNSHP PRKWY BOX 3310,MATTHEWS,NC,28106,Mecklenburg,(704) 384-6500,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,34.194225,-77.92946
 "Wakemed, Cary Hospital",1900 KILDARE FARM ROAD,CARY,NC,27518,Wake,(919) 350-2550,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,,
-Novant Health Huntersville Medical Center,10030 GILEAD ROAD,HUNTERSVILLE,NC,28078,Mecklenburg,(704) 316-4000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,,
+Novant Health Huntersville Medical Center,10030 GILEAD ROAD,HUNTERSVILLE,NC,28078,Mecklenburg,(704) 316-4000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,35.4057359,-80.85993902558891
 Haywood Regional Medical Center,262 LEROY GEORGE DRIVE,CLYDE,NC,28721,Haywood,(828) 456-7311,Acute Care Hospitals,Government - Hospital District or Authority,Yes,5,35.4057359,-80.85993903
 Vidant Beaufort Hospital,628 E 12TH ST,WASHINGTON,NC,27889,Beaufort,(252) 975-4100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,35.5252312,-82.9427378
 Davie Medical Center,223 HOSPITAL STREET,MOCKSVILLE,NC,27028,Davie,(336) 751-8100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,35.898176453568986,-80.57547762576237
-Cape Fear Valley Hoke Hospital,210 MEDICAL PAVILION DRIVE,RAEFORD,NC,28376,Hoke,(910) 904-8000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,,
-Novant Health Mint Hill Medical Center,8201 HEALTHCARE LOOP,CHARLOTTE,NC,28215,Mecklenburg,(704) 384-4089,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available,35.02993385,-79.10741221
-Firsthealth Montgomery Memorial Hosp,520 ALLEN STREET,TROY,NC,27371,Montgomery,(910) 572-1301,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,,
+Cape Fear Valley Hoke Hospital,210 MEDICAL PAVILION DRIVE,RAEFORD,NC,28376,Hoke,(910) 904-8000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,35.02993385,-79.10741221370446
+Novant Health Mint Hill Medical Center,8201 HEALTHCARE LOOP,CHARLOTTE,NC,28215,Mecklenburg,(704) 384-4089,Acute Care Hospitals,Voluntary non-profit - Private,Yes,0,35.02993385,-79.10741221
+Firsthealth Montgomery Memorial Hosp,520 ALLEN STREET,TROY,NC,27371,Montgomery,(910) 572-1301,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,,
 Vidant Bertie  Hospital,1403 SOUTH KINGS STREET,WINDSOR,NC,27983,Bertie,(252) 794-6600,Critical Access Hospitals,Voluntary non-profit - Private,Yes,5,35.36424151,-79.89141648
-Dlp Swain County Hospital Llc,45 PLATEAU STREET,BRYSON CITY,NC,28713,Swain,(828) 488-2155,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,35.9885957,-76.92894313
-Pender Memorial Hospital,507 E FREMONT ST,BURGAW,NC,28425,Pender,(910) 300-4004,Critical Access Hospitals,Government - Local,Yes,Not Available,35.4346687,-83.44482184
-Chatham Hospital Inc,475 PROGRESS BLVD,SILER CITY,NC,27344,Chatham,(919) 799-4000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,34.5505574,-77.91980849
-Washington County Hosp Inc,958 US HWY 64 EAST,PLYMOUTH,NC,27962,Washington,(252) 793-4135,Critical Access Hospitals,Proprietary,Yes,Not Available,35.7230036,-79.4208118
-Cape Fear Valley-Bladen County Hospital,501 SOUTH POPLAR STREET,ELIZABETHTOWN,NC,28337,Bladen,(910) 862-5100,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,,
-Highlands Cashiers Hospital,190 HOSPITAL DRIVE,HIGHLANDS,NC,28741,Buncombe,(828) 526-1200,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,34.62247135,-78.60790529
-Pioneer Community Hospital Of Stokes,1570 NC 8 & 89 HWY NORTH,DANBURY,NC,27016,Stokes,(336) 593-2831,Critical Access Hospitals,Proprietary,Yes,Not Available,39.13783277,-76.61626691
-Vidant Chowan Hospital,211 VIRGINIA RD,EDENTON,NC,27932,Chowan,(252) 482-8451,Critical Access Hospitals,Government - Local,Yes,4,,
+Dlp Swain County Hospital Llc,45 PLATEAU STREET,BRYSON CITY,NC,28713,Swain,(828) 488-2155,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,35.9885957,-76.92894313
+Pender Memorial Hospital,507 E FREMONT ST,BURGAW,NC,28425,Pender,(910) 300-4004,Critical Access Hospitals,Government - Local,Yes,0,35.4346687,-83.44482184
+Chatham Hospital Inc,475 PROGRESS BLVD,SILER CITY,NC,27344,Chatham,(919) 799-4000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,34.5505574,-77.91980849
+Washington County Hosp Inc,958 US HWY 64 EAST,PLYMOUTH,NC,27962,Washington,(252) 793-4135,Critical Access Hospitals,Proprietary,Yes,0,35.7230036,-79.4208118
+Cape Fear Valley-Bladen County Hospital,501 SOUTH POPLAR STREET,ELIZABETHTOWN,NC,28337,Bladen,(910) 862-5100,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,34.62247135,-78.60790529003071
+Highlands Cashiers Hospital,190 HOSPITAL DRIVE,HIGHLANDS,NC,28741,Buncombe,(828) 526-1200,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,34.62247135,-78.60790529
+Pioneer Community Hospital Of Stokes,1570 NC 8 & 89 HWY NORTH,DANBURY,NC,27016,Stokes,(336) 593-2831,Critical Access Hospitals,Proprietary,Yes,0,39.13783277,-76.61626691
+Vidant Chowan Hospital,211 VIRGINIA RD,EDENTON,NC,27932,Chowan,(252) 482-8451,Critical Access Hospitals,Government - Local,Yes,4,36.069846150000004,-76.6108979146475
 "Transylvania Regional Hospital, Inc",90 HOSPITAL DRIVE PO BOX 1116,BREVARD,NC,28712,Buncombe,(828) 883-5302,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,36.06984615,-76.61089791
-Alleghany County Memorial Hospital,617 DOCTORS STREET,SPARTA,NC,28675,Alleghany,(336) 372-5511,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,,
+Alleghany County Memorial Hospital,617 DOCTORS STREET,SPARTA,NC,28675,Alleghany,(336) 372-5511,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,,
 St Lukes Hospital,101 HOSPITAL DRIVE,COLUMBUS,NC,28722,Polk,(828) 894-3311,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,36.50958607,-81.10909188
 Charles A Cannon Jr Memorial Hospital,434 HOSPITAL DRIVE,LINVILLE,NC,28646,Watauga,(828) 737-7000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,35.2394986,-82.21258881
 "The Outer Banks Hospital, Inc",4800 SOUTH CROATAN HIGHWAY,NAGS HEAD,NC,27959,Dare,(252) 449-4500,Critical Access Hospitals,Voluntary non-profit - Private,Yes,3,36.0601267,-81.89049998
@@ -452,8 +452,8 @@ Musc Medical Center,169 ASHLEY AVE,CHARLESTON,SC,29425,Charleston,(843) 792-2300
 Mcleod Medical Center - Dillon,301 E JACKSON STREET PO BOX 1327,DILLON,SC,29536,Dillon,(843) 774-4111,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,32.78295691,-79.94539805
 Spartanburg Medical Center,101 E WOOD ST,SPARTANBURG,SC,29303,Spartanburg,(864) 560-6554,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,34.4213706,-79.3649225
 Prisma Health Oconee Memorial Hospital,102B OMNI DR,SENECA,SC,29672,Oconee,(864) 482-3100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,34.9669664,-81.93873094
-Carolina Pines Regional Medical Center,1304 W BOBO NEWSOM HWY,HARTSVILLE,SC,29550,Darlington,(864) 339-2100,Acute Care Hospitals,Proprietary,Yes,4,,
-Cannon Memorial Hospital,123 W G ACKER DRIVE,PICKENS,SC,29671,Pickens,(864) 878-4791,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available,34.3502188,-80.10470356
+Carolina Pines Regional Medical Center,1304 W BOBO NEWSOM HWY,HARTSVILLE,SC,29550,Darlington,(864) 339-2100,Acute Care Hospitals,Proprietary,Yes,4,34.3502188,-80.10470356437693
+Cannon Memorial Hospital,123 W G ACKER DRIVE,PICKENS,SC,29671,Pickens,(864) 878-4791,Acute Care Hospitals,Voluntary non-profit - Private,Yes,0,34.3502188,-80.10470356
 Prisma Health Baptist Easley Hospital,200 FLEETWOOD DRIVE,EASLEY,SC,29640,Pickens,(864) 442-7606,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,34.8742405,-82.70720734
 Prisma Health Richland Hospital,5 MEDICAL PARK,COLUMBIA,SC,29203,Richland,(803) 296-2548,Acute Care Hospitals,Proprietary,Yes,2,34.84068365,-82.60672937
 Musc Health Chester Medical Center,1 MEDICAL PARK DRIVE,CHESTER,SC,29706,Chester,(803) 581-3151,Acute Care Hospitals,Proprietary,Yes,3,,
@@ -470,7 +470,7 @@ Cherokee Medical Center,1530 N LIMESTONE ST,GAFFNEY,SC,29340,Cherokee,(864) 487-
 Kershawhealth,1315 ROBERTS STREET,CAMDEN,SC,29020,Kershaw,(803) 432-4311,Acute Care Hospitals,Proprietary,Yes,4,35.09011135,-81.6343879
 Conway Medical Center,300 SINGLETON RIDGE ROAD,CONWAY,SC,29526,Horry,(843) 347-8037,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,34.25326805,-80.59087665
 Mcleod Regional Medical Center-Pee Dee,555 E CHEVES ST BOX 8700,FLORENCE,SC,29506,Florence,(843) 777-2900,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,33.78497785,-79.00064338
-Newberry County Memorial Hospital,2669 KINARD ST PO BOX 497,NEWBERRY,SC,29108,Newberry,(803) 405-7145,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,,
+Newberry County Memorial Hospital,2669 KINARD ST PO BOX 497,NEWBERRY,SC,29108,Newberry,(803) 405-7145,Acute Care Hospitals,Voluntary non-profit - Other,Yes,5,34.2904633,-81.60614880320375
 Musc Health Marion Medical Center,2829 E HWY 76,MULLINS,SC,29574,Marion,(843) 431-2000,Acute Care Hospitals,Government - State,Yes,2,34.2904633,-81.6061488
 Bon Secours-St Francis Xavier Hospital,2095 HENRY TECKLENBURG DRIVE,CHARLESTON,SC,29414,Charleston,(843) 402-1006,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,34.3135433,-79.83988876
 Lake City Community Hospital,258 N RON MCNAIR BLVD,LAKE CITY,SC,29560,Florence,(843) 374-2036,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,,
@@ -478,7 +478,7 @@ Beaufort County Memorial Hospital,955 RIBAUT RD,BEAUFORT,SC,29902,Beaufort,(843)
 Trmc Of Orangeburg & Calhoun,3000 ST MATTHEWS RD BOX 1806,ORANGEBURG,SC,29115,Orangeburg,(803) 533-2460,Acute Care Hospitals,Government - Local,Yes,1,32.41680315,-80.68731507
 Prisma Health Tuomey Hospital,129 N WASHINGTON ST,SUMTER,SC,29150,Sumter,(803) 296-2548,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,,
 Self Regional Healthcare,1325 SPRING STREET,GREENWOOD,SC,29646,Greenwood,(864) 227-4111,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,33.9224656,-80.34323031
-Hampton Regional Medical Center,595 WEST CAROLINA AVENUE,VARNVILLE,SC,29944,Hampton,(803) 943-2771,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available,34.1758945,-82.15625586
+Hampton Regional Medical Center,595 WEST CAROLINA AVENUE,VARNVILLE,SC,29944,Hampton,(803) 943-2771,Acute Care Hospitals,Voluntary non-profit - Private,Yes,0,34.1758945,-82.15625586
 Lexington Medical Center,2720 SUNSET BLVD,WEST COLUMBIA,SC,29169,Lexington,(803) 791-2000,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,32.85289455,-81.09005062
 Prisma Health Greenville Memorial Hospital,701 GROVE ROAD,GREENVILLE,SC,29605,Greenville,(864) 455-7000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,34.00703065,-81.11383094
 Trident Medical Center,9330 MEDICAL PLAZA DR,CHARLESTON,SC,29406,Charleston,(843) 847-4100,Acute Care Hospitals,Proprietary,Yes,1,34.81959795,-82.41041756
@@ -495,13 +495,13 @@ Pelham Medical Center,250 WESTMORELAND ROAD,GREER,SC,29651,Greenville,(864) 560-
 Mount Pleasant Hospital,3510 HIGHWAY 17 NORTH SUITE 140,MOUNT PLEASANT,SC,29466,Charleston,(843) 724-2954,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,34.86282275,-82.21839269
 Prisma Health Baptist Parkridge,400 PALMETTO HEALTH PARKWAY,COLUMBIA,SC,29212,Lexington,(803) 907-7011,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,34.05753,-78.89847
 Mcleod Health Cheraw,711 CHESTERFIELD HIGHWAY,CHERAW,SC,29520,Chesterfield,(843) 537-7881,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,34.08789805,-81.15982836
-Union Medical Center,322 WEST SOUTH STREET,UNION,SC,29379,Union,(864) 301-2000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,Not Available,34.69208995,-79.90269456
+Union Medical Center,322 WEST SOUTH STREET,UNION,SC,29379,Union,(864) 301-2000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,0,34.69208995,-79.90269456
 Mcleod Health Clarendon,10 EAST HOSPITAL STREET,MANNING,SC,29102,Clarendon,(803) 435-8463,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,34.7123931,-81.62929901
-Roper St Francis Hospital-Berkely Inc,300  CALLEN BLVD,SUMMERVILLE,SC,29486,Berkeley,(854) 529-3002,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available,33.68704215,-80.21074657
-Allendale County Hospital,1787 ALLENDALE FAIRFAX RD,FAIRFAX,SC,29827,Allendale,(803) 632-3311,Critical Access Hospitals,Government - Local,Yes,Not Available,,
-Abbeville Area Medical Center,420 THOMSON CIRCLE,ABBEVILLE,SC,29620,Abbeville,(864) 366-5011,Critical Access Hospitals,Government - Local,Yes,Not Available,32.9651419,-81.24804957
-Williamsburg Regional Hospital,500 NELSON BOULEVARD,KINGSTREE,SC,29556,Williamsburg,(843) 355-8888,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,34.1574232,-82.38168866
-Edgefield County Healthcare An Affiliate Of Self R,300 RIDGE MEDICAL PLAZA,EDGEFIELD,SC,29824,Laurens,(803) 637-3174,Critical Access Hospitals,Government - Local,Yes,Not Available,33.6598321,-79.81848976
+Roper St Francis Hospital-Berkely Inc,300  CALLEN BLVD,SUMMERVILLE,SC,29486,Berkeley,(854) 529-3002,Acute Care Hospitals,Voluntary non-profit - Private,Yes,0,33.68704215,-80.21074657
+Allendale County Hospital,1787 ALLENDALE FAIRFAX RD,FAIRFAX,SC,29827,Allendale,(803) 632-3311,Critical Access Hospitals,Government - Local,Yes,0,,
+Abbeville Area Medical Center,420 THOMSON CIRCLE,ABBEVILLE,SC,29620,Abbeville,(864) 366-5011,Critical Access Hospitals,Government - Local,Yes,0,32.9651419,-81.24804957
+Williamsburg Regional Hospital,500 NELSON BOULEVARD,KINGSTREE,SC,29556,Williamsburg,(843) 355-8888,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,34.1574232,-82.38168866
+Edgefield County Healthcare An Affiliate Of Self R,300 RIDGE MEDICAL PLAZA,EDGEFIELD,SC,29824,Laurens,(803) 637-3174,Critical Access Hospitals,Government - Local,Yes,0,33.6598321,-79.81848976
 Norton Community Hospital,100  15TH NW STREET,NORTON,VA,24273,Norton City,(276) 439-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,34.86527495,-80.80292773
 Russell County Hospital,58 CARROLL STREET,LEBANON,VA,24266,Russell,(276) 883-8100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,36.93349735,-82.6422989
 Sentara Rmh Medical Center,2010 HEALTH CAMPUS DRIVE,HARRISONBURG,VA,22801,Harrisonburg City,(540) 689-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,38.4051275,-78.85520746693862
@@ -513,13 +513,13 @@ Sentara Halifax Regional Hospital,2204 WILBORN AVENUE,SOUTH BOSTON,VA,24592,Hali
 Bon Secours Maryview Medical Center,3636 HIGH STREET,PORTSMOUTH,VA,23707,Portsmouth City,(757) 398-2200,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,36.71195555,-78.91420475
 Augusta Health,78 MEDICAL CENTER DRIVE,FISHERSVILLE,VA,22939,Augusta,(540) 932-4000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,36.83632175,-76.34681407
 Novant Health Uva Health System Culpeper Med Cente,501 SUNSET LANE,CULPEPER,VA,22701,Culpeper,(540) 829-4100,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,38.0945991,-78.98589224
-Fort Belvoir Community Hospital,9300 DeWitt Loop,Fort Belvoir,VA,22060,Fairfax,(571) 231-3224,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,38.45520655,-78.0132697
+Fort Belvoir Community Hospital,9300 DeWitt Loop,Fort Belvoir,VA,22060,Fairfax,(571) 231-3224,Acute Care - Department of Defense,Department of Defense,Yes,0,38.45520655,-78.0132697
 John Randolph Medical Center,411 WEST RANDOLPH ROAD,HOPEWELL,VA,23860,Hopewell City,(804) 541-1600,Acute Care Hospitals,Proprietary,Yes,3,38.7053318,-77.14259116
 Centra Health -  Lynchburg Gen Hospital,1901 TATE SPRINGS ROAD,LYNCHBURG,VA,24501,Lynchburg City,(434) 200-4789,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,37.30791405,-77.29117631
 Mary Washington Hospital,1001 SAM PERRY BOULEVARD,FREDERICKSBURG,VA,22401,Fredericksburg City,(540) 741-1100,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,37.41710625,-79.17105385
 Fauquier Hospital,500 HOSPITAL DRIVE,WARRENTON,VA,20186,Fauquier,(540) 316-5000,Acute Care Hospitals,Proprietary,Yes,2,38.31038945,-77.48383429
 Carilion Medical Center,"1906 BELLEVIEW AVENUE, SE",ROANOKE,VA,24014,Roanoke City,(540) 981-7000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,38.71209605,-77.80865022
-Medical College Of Virginia Hospitals,BOX 980510   1250 EAST MARSHALL STREET,RICHMOND,VA,23298,Richmond City,(804) 828-0938,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,,
+Medical College Of Virginia Hospitals,BOX 980510   1250 EAST MARSHALL STREET,RICHMOND,VA,23298,Richmond City,(804) 828-0938,Acute Care Hospitals,Government - Hospital District or Authority,Yes,4,37.540257499999996,-77.43006310233004
 Warren Memorial Hospital,351 VALLEY HEALTH WAY,FRONT ROYAL,VA,22630,Warren,(540) 636-0299,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,,
 Riverside Shore Memorial Hospital,20480 MARKET STREET,ONANCOCK,VA,23417,Northampton,(757) 414-8000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,38.92000025,-78.15324819
 Smyth County Community Hospital,245 MEDICAL PARK DRIVE,MARION,VA,24354,Smyth,(276) 378-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,37.70142828,-75.7208459
@@ -535,7 +535,7 @@ Riverside Regional Medical Center,500 J CLYDE MORRIS BLVD,NEWPORT NEWS,VA,23601,
 Johnston Memorial Hospital,16000 JOHNSTON MEMORIAL DRIVE,ABINGDON,VA,24211,Washington,(276) 258-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,37.0638974,-76.48153815
 Sentara Virginia Beach General Hospital,1060 FIRST COLONIAL ROAD,VIRGINIA BEACH,VA,23454,Virginia Beach City,(757) 395-8000,Acute Care Hospitals,Voluntary non-profit - Other,Yes,3,36.7104948,-81.99370885
 Bon Secours St Marys Hospital,5801 BREMO RD,RICHMOND,VA,23226,Richmond City,(804) 285-2011,Acute Care Hospitals,Voluntary non-profit - Church,Yes,4,36.864964,-76.02625152
-1St Medical Group (Langley Afb),633 MDG 77 Nealy Ave,Langley,VA,23665,Hampton City,(757) 225-7630,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,37.58395915,-77.51291128
+1St Medical Group (Langley Afb),633 MDG 77 Nealy Ave,Langley,VA,23665,Hampton City,(757) 225-7630,Acute Care - Department of Defense,Department of Defense,Yes,0,37.58395915,-77.51291128
 Clinch Valley Medical Center,6801 GOVERNOR GC PERRY HIGHWAY,RICHLANDS,VA,24641,Tazewell,(276) 596-6000,Acute Care Hospitals,Proprietary,Yes,3,,
 Inova Fairfax Hospital,3300 GALLOWS ROAD,FALLS CHURCH,VA,22042,Fairfax,(703) 776-4001,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,37.09561695,-81.81998966
 Sentara Williamsburg Regional Medical Center,100 SENTARA CIRCLE,WILLIAMSBURG,VA,23188,James City,(757) 984-6000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,38.8557183,-77.2279497
@@ -546,11 +546,11 @@ Sentara Martha Jefferson Hospital,500 MARTHA JEFFERSON DRIVE,CHARLOTTESVILLE,VA,
 Vcu Health Tappahannock Hospital,618 HOSPITAL ROAD,TAPPAHANNOCK,VA,22560,Essex,(804) 443-6189,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,38.022927,-78.44433506
 Centra Bedford Memorial Hospital,1613 OAKWOOD STREET,BEDFORD,VA,24523,Bedford,(434) 200-6366,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,37.9009082,-76.8785345
 Carilion Franklin Memorial Hospital,180 FLOYD AVENUE,ROCKY MOUNT,VA,24151,Franklin,(540) 483-5277,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,37.35204605,-79.51748756
-Nmc Portsmouth,620 John Paul Jones Circle,Portsmouth,VA,23708,Portsmouth City,(757) 953-5008,Acute Care - Department of Defense,Department of Defense,Yes,Not Available,36.99447206,-79.89025655
-"Centra Southside Community Hospital, Inc",800 OAK STREET,FARMVILLE,VA,23901,Prince Edward,(434) 392-8811,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,,
+Nmc Portsmouth,620 John Paul Jones Circle,Portsmouth,VA,23708,Portsmouth City,(757) 953-5008,Acute Care - Department of Defense,Department of Defense,Yes,0,36.99447206,-79.89025655
+"Centra Southside Community Hospital, Inc",800 OAK STREET,FARMVILLE,VA,23901,Prince Edward,(434) 392-8811,Acute Care Hospitals,Voluntary non-profit - Other,Yes,4,37.30257949999999,-78.4040613131847
 Bon Secours Southampton Memorial Hospital,100 FAIRVIEW DRIVE - PO BOX 817,FRANKLIN,VA,23851,Franklin City,(757) 569-6100,Acute Care Hospitals,Proprietary,Yes,3,37.3025795,-78.40406131
 Sentara Careplex Hospital,3000 COLISEUM DRIVE,HAMPTON,VA,23666,Hampton City,(757) 736-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,,
-Bon Secours Richmond Community Hospital,1500 N. 28TH STREET,RICHMOND,VA,23223,Richmond City,(804) 225-1700,Acute Care Hospitals,Voluntary non-profit - Private,Yes,Not Available,37.05650465,-76.39040187
+Bon Secours Richmond Community Hospital,1500 N. 28TH STREET,RICHMOND,VA,23223,Richmond City,(804) 225-1700,Acute Care Hospitals,Voluntary non-profit - Private,Yes,0,37.05650465,-76.39040187
 Bon Secours Southern Virginia Medical Center,727 NORTH MAIN STREET,EMPORIA,VA,23847,Emporia City,(434) 348-4400,Acute Care Hospitals,Proprietary,Yes,2,37.5401185,-77.40691479
 Community Memorial Hospital,1755 NORTH MECKLENBURG AVENUE,SOUTH HILL,VA,23970,Mecklenburg,(434) 447-3151,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,36.70169405,-77.53764257
 Reston Hospital Center,1850 TOWN CENTER PARKWAY,RESTON,VA,20190,Fairfax,(703) 689-9000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,37.20506275,-77.45416629
@@ -576,12 +576,12 @@ Novant Health Uva Health Haymarket Medical Center,15225 HEALTHCOTE BOULEVARD,HAY
 Stonesprings Hospital Center,24440 STONE SPRINGS BOULEVARD,DULLES,VA,20166,Loudoun,(571) 349-4000,Acute Care Hospitals,Proprietary,Yes,3,,
 Bath Community Hospital,106 PARK DRIVE- PO DRAWER Z,HOT SPRINGS,VA,24445,Bath,(540) 839-7000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,38.9404883,-77.54269875
 Carilion Giles Community Hospital,159 HARTLEY WAY,PEARISBURG,VA,24134,Giles,(540) 921-6000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,3,37.99250375,-79.83164216
-Dickenson Community Hospital,312 HOSPITAL DRIVE,CLINTWOOD,VA,24228,Dickenson,(276) 926-0300,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,37.33295555,-80.7128496
+Dickenson Community Hospital,312 HOSPITAL DRIVE,CLINTWOOD,VA,24228,Dickenson,(276) 926-0300,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,37.33295555,-80.7128496
 Carilion Stonewall Jackson Hospital,1 HEALTH CIRCLE,LEXINGTON,VA,24450,Lexington City,(540) 458-3503,Critical Access Hospitals,Voluntary non-profit - Private,Yes,2,37.16046005,-82.44926895
 Shenandoah Memorial Hospital,759 SOUTH MAIN STREET,WOODSTOCK,VA,22664,Shenandoah,(540) 459-1100,Critical Access Hospitals,Voluntary non-profit - Private,Yes,2,37.77891505,-79.44079144
 "Page Memorial Hospital, Inc",200 MEMORIAL DRIVE,LURAY,VA,22835,Page,(540) 743-4561,Critical Access Hospitals,Voluntary non-profit - Private,Yes,3,38.8703896,-78.51246375
 Rappahannock General Hospital,101 HARRIS ROAD,KILMARNOCK,VA,22482,Northumberland,(804) 435-8000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,2,38.664339,-78.469002
-Childrens Hospital Of The Kings Daughters Inc,601 CHILDREN'S LANE,NORFOLK,VA,23507,Norfolk City,(757) 668-9647,Childrens,Voluntary non-profit - Private,Yes,Not Available,37.54680685,-76.97846531
+Childrens Hospital Of The Kings Daughters Inc,601 CHILDREN'S LANE,NORFOLK,VA,23507,Norfolk City,(757) 668-9647,Childrens,Voluntary non-profit - Private,Yes,0,37.54680685,-76.97846531
 West Virginia University Hospitals,1 MEDICAL CENTER DRIVE,MORGANTOWN,WV,26506,Monongalia,(304) 598-4200,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,,
 Greenbrier Valley Medical Center,1320 MAPLEWOOD AVENUE,RONCEVERTE,WV,24970,Greenbrier,(304) 647-4411,Acute Care Hospitals,Proprietary,Yes,4,39.6536927,-79.9574495
 United Hospital Center,327 MEDICAL PARK DRIVE,BRIDGEPORT,WV,26330,Harrison,(681) 342-1000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,37.7728299,-80.47031528
@@ -594,7 +594,7 @@ Weirton Medical Center,601 COLLIERS WAY,WEIRTON,WV,26062,Hancock,(304) 797-6000,
 Mon Health Medical Center,1200 JD ANDERSON DRIVE,MORGANTOWN,WV,26505,Monongalia,(304) 598-1200,Acute Care Hospitals,Voluntary non-profit - Private,Yes,4,40.39313205,-80.52793077
 Thomas Memorial Hospital,4605 MACCORKLE AVENUE SW,SOUTH CHARLESTON,WV,25309,Kanawha,(304) 766-3600,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,,
 Davis Medical Center,812 GORMAN AVENUE,ELKINS,WV,26241,Randolph,(304) 636-3300,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,38.3639647,-81.67327
-St Francis Hospital,333 LAIDLEY ST,CHARLESTON,WV,25301,Kanawha,(304) 347-6500,Acute Care Hospitals,Proprietary,Yes,Not Available,38.92753255,-79.85416042
+St Francis Hospital,333 LAIDLEY ST,CHARLESTON,WV,25301,Kanawha,(304) 347-6500,Acute Care Hospitals,Proprietary,Yes,0,38.92753255,-79.85416042
 Stonewall Jackson Memorial Hospital,230 HOSPITAL PLAZA,WESTON,WV,26452,Lewis,(304) 269-8080,Acute Care Hospitals,Voluntary non-profit - Private,Yes,5,38.35380135,-81.63292439
 Ohio Valley Medical Center,2000 EOFF STREET,WHEELING,WV,26003,Ohio,(304) 234-0123,Acute Care Hospitals,Voluntary non-profit - Private,Yes,1,39.0474316,-80.49209534
 Princeton Community Hospital,122 12TH STREET,PRINCETON,WV,24740,Mercer,(304) 487-7260,Acute Care Hospitals,Government - Local,Yes,3,40.059954,-80.721294
@@ -605,26 +605,26 @@ Cabell Huntington Hospital Inc,1340 HAL GREER BOULEVARD,HUNTINGTON,WV,25701,Cabe
 Camden Clark Medical Center,800 GARFIELD AVE,PARKERSBURG,WV,26101,Wood,(304) 424-2111,Acute Care Hospitals,Voluntary non-profit - Private,Yes,3,38.40906865,-82.42620899
 Beckley Arh Hospital,306 STANAFORD ROAD,BECKLEY,WV,25801,Raleigh,(304) 255-3000,Acute Care Hospitals,Voluntary non-profit - Private,Yes,2,39.270915,-81.56022555
 Raleigh General Hospital,1710 HARPER ROAD,BECKLEY,WV,25801,Raleigh,(304) 256-4100,Acute Care Hospitals,Proprietary,Yes,1,37.7989136,-81.16822723
-Wetzel County Hospital,#3 EAST BENJAMIN DRIVE,NEW MARTINSVILLE,WV,26155,Wetzel,(304) 455-8000,Acute Care Hospitals,Government - Local,Yes,Not Available,37.78780795,-81.20176617
-Welch Community Hospital,454 MCDOWELL STREET,WELCH,WV,24801,McDowell,(304) 436-8461,Acute Care Hospitals,Government - State,Yes,Not Available,39.68076845,-80.84974569
-"Broaddus Hospital Association, Inc",1 HEALTHCARE DRIVE MANSFIELD HILL,PHILIPPI,WV,26416,Barbour,(304) 457-1760,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,38.3435533,-81.62994801
-Webster County Memorial Hospital,324 MILLER MOUNTAIN DRIVE,WEBSTER SPRINGS,WV,26288,Webster,(304) 847-5682,Critical Access Hospitals,Voluntary non-profit - Other,Yes,Not Available,,
-Minnie Hamilton Health System,186 HOSPITAL DRIVE,GRANTSVILLE,WV,26147,Calhoun,(304) 354-9244,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,38.4823515,-80.41065708
-Sistersville General Hospital,314 SOUTH WELLS STREET,SISTERSVILLE,WV,26175,Tyler,(304) 652-2611,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,38.92453788,-81.09126925
-Roane General Hospital,200 HOSPITAL DRIVE,SPENCER,WV,25276,Roane,(304) 927-4444,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,39.5586659,-81.0040005
-"Grafton City Hospital, Inc",1 HOSPITAL PLAZA,GRAFTON,WV,26354,Taylor,(304) 265-0400,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,38.8124427,-81.36922239
-"Braxton County Memorial Hospital, Inc",100 HOYLMAN DRIVE,GASSAWAY,WV,26624,Braxton,(304) 364-5156,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,,
-War Memorial Hospital Inc,1 HEALTHY WAY,BERKELEY SPRINGS,WV,25411,Morgan,(304) 258-1234,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,38.66092335,-80.74873515
-Summers County Arh Hospital,115 SUMMERS HOSPITAL ROAD,HINTON,WV,25951,Summers,(304) 466-1000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,39.6412911,-78.20068775
-Hampshire Memorial Hospital,363 SUNRISE BOULEVARD,ROMNEY,WV,26757,Hampshire,(304) 822-4561,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,,
-Preston Memorial Hospital,150 MEMORIAL DRIVE,KINGWOOD,WV,26537,Preston,(304) 329-1400,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,39.3332682,-78.69871854
+Wetzel County Hospital,#3 EAST BENJAMIN DRIVE,NEW MARTINSVILLE,WV,26155,Wetzel,(304) 455-8000,Acute Care Hospitals,Government - Local,Yes,0,37.78780795,-81.20176617
+Welch Community Hospital,454 MCDOWELL STREET,WELCH,WV,24801,McDowell,(304) 436-8461,Acute Care Hospitals,Government - State,Yes,0,39.68076845,-80.84974569
+"Broaddus Hospital Association, Inc",1 HEALTHCARE DRIVE MANSFIELD HILL,PHILIPPI,WV,26416,Barbour,(304) 457-1760,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,38.3435533,-81.62994801
+Webster County Memorial Hospital,324 MILLER MOUNTAIN DRIVE,WEBSTER SPRINGS,WV,26288,Webster,(304) 847-5682,Critical Access Hospitals,Voluntary non-profit - Other,Yes,0,,
+Minnie Hamilton Health System,186 HOSPITAL DRIVE,GRANTSVILLE,WV,26147,Calhoun,(304) 354-9244,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,38.4823515,-80.41065708
+Sistersville General Hospital,314 SOUTH WELLS STREET,SISTERSVILLE,WV,26175,Tyler,(304) 652-2611,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,38.92453788,-81.09126925
+Roane General Hospital,200 HOSPITAL DRIVE,SPENCER,WV,25276,Roane,(304) 927-4444,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,39.5586659,-81.0040005
+"Grafton City Hospital, Inc",1 HOSPITAL PLAZA,GRAFTON,WV,26354,Taylor,(304) 265-0400,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,38.8124427,-81.36922239
+"Braxton County Memorial Hospital, Inc",100 HOYLMAN DRIVE,GASSAWAY,WV,26624,Braxton,(304) 364-5156,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,,
+War Memorial Hospital Inc,1 HEALTHY WAY,BERKELEY SPRINGS,WV,25411,Morgan,(304) 258-1234,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,38.66092335,-80.74873515
+Summers County Arh Hospital,115 SUMMERS HOSPITAL ROAD,HINTON,WV,25951,Summers,(304) 466-1000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,39.6412911,-78.20068775
+Hampshire Memorial Hospital,363 SUNRISE BOULEVARD,ROMNEY,WV,26757,Hampshire,(304) 822-4561,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,39.3332682,-78.69871853609189
+Preston Memorial Hospital,150 MEMORIAL DRIVE,KINGWOOD,WV,26537,Preston,(304) 329-1400,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,39.3332682,-78.69871854
 Boone Memorial Hospital,701 MADISON AVENUE,MADISON,WV,25130,Boone,(304) 369-1230,Critical Access Hospitals,Government - Local,Yes,4,39.4649446,-79.6774308
-Pocahontas Memorial Hospital,150 DUNCAN ROAD,BUCKEYE,WV,24924,Pocahontas,(304) 799-7400,Critical Access Hospitals,Voluntary non-profit - Other,Yes,Not Available,35.788826,-78.79544505
+Pocahontas Memorial Hospital,150 DUNCAN ROAD,BUCKEYE,WV,24924,Pocahontas,(304) 799-7400,Critical Access Hospitals,Voluntary non-profit - Other,Yes,0,35.788826,-78.79544505
 Potomac Valley Hospital,100 PIN OAK LANE,KEYSER,WV,26726,Mineral,(304) 597-3500,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,38.20066415,-80.1089791
 Grant Memorial Hospital,117 HOSPITAL DRIVE,PETERSBURG,WV,26847,Grant,(304) 257-1026,Critical Access Hospitals,Voluntary non-profit - Other,Yes,4,39.40948505,-79.00320958
 Plateau Medical Center,"430 MAIN STREET, WEST",OAK HILL,WV,25901,Fayette,(304) 469-8600,Critical Access Hospitals,Proprietary,Yes,3,39.0012298,-79.13714454
-"Montgomery General Hospital, Inc",401 SIXTH AVENUE,MONTGOMERY,WV,25136,Fayette,(304) 442-5151,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,37.97216965,-81.14981038
+"Montgomery General Hospital, Inc",401 SIXTH AVENUE,MONTGOMERY,WV,25136,Fayette,(304) 442-5151,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,37.97216965,-81.14981038
 Jefferson Medical Center,300 SOUTH PRESTON STREET,RANSON,WV,25438,Jefferson,(304) 728-1600,Critical Access Hospitals,Voluntary non-profit - Private,Yes,2,,
 Jackson General Hospital,122 PINNELL ST,RIPLEY,WV,25271,Jackson,(304) 372-2731,Critical Access Hospitals,Voluntary non-profit - Private,Yes,4,39.29579855,-77.85854809
-St Joseph'S Hospital,1 AMALIA DRIVE,BUCKHANNON,WV,26201,Upshur,(304) 472-2000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,Not Available,38.8228835,-81.72989476
-Summersville Regional Medical Center,400 FAIRVIEW HEIGHTS ROAD,SUMMERSVILLE,WV,26651,Nicholas,(304) 872-2891,Critical Access Hospitals,Government - Local,Yes,Not Available,38.9922873,-80.2360181
+St Joseph'S Hospital,1 AMALIA DRIVE,BUCKHANNON,WV,26201,Upshur,(304) 472-2000,Critical Access Hospitals,Voluntary non-profit - Private,Yes,0,38.8228835,-81.72989476
+Summersville Regional Medical Center,400 FAIRVIEW HEIGHTS ROAD,SUMMERSVILLE,WV,26651,Nicholas,(304) 872-2891,Critical Access Hospitals,Government - Local,Yes,0,38.9922873,-80.2360181
