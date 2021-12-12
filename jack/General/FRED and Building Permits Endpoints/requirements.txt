@@ -1,0 +1,4 @@
+xlrd
+pandas_datareader
+fredapi
+pandas
