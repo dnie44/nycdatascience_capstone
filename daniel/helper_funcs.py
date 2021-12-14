@@ -117,3 +117,13 @@ def get_all(upper_lim=12000000):
     print(f'Shape: {redfin.shape}')
 
     return redfin
+
+def get_zipdata():
+    '''
+    Imports hospital data:
+    '''
+    print('----pulling ZipCode data from Azure storage----')
+    zipdata = pd.read_csv('https://nycdsacapstone2021.blob.core.windows.net/additionaldata/final_zip_data.csv', index_col=0)
+    zipdata.drop(columns=['Zip_count'],inplace=True)
+    print('----Done----')
+    return zipdata
