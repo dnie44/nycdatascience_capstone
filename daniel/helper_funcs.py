@@ -120,10 +120,12 @@ def get_all(upper_lim=12000000):
 
 def get_zipdata():
     '''
-    Imports hospital data:
+    Pulls Zipcode Level Data
     '''
     print('----pulling ZipCode data from Azure storage----')
     zipdata = pd.read_csv('https://nycdsacapstone2021.blob.core.windows.net/additionaldata/final_zip_data.csv', index_col=0)
-    zipdata.drop(columns=['Zip_count'],inplace=True)
+    unwanted = ['Zip_count','Survey_Date', 'FIPS_State', 'FIPS_County', 'Region_Code', 
+              'Division_Code', 'State_y', 'state_abbrev', 'County_Name']
+    zipdata.drop(columns=unwanted, inplace=True)
     print('----Done----')
     return zipdata
