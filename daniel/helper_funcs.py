@@ -47,8 +47,9 @@ def get_redfin_csv(upper_lim=12000000):
     # Need to drop properties with SquareFootage == NaN as its the most important feature...
     redfin.drop(redfin[redfin.SF.isna()].index, inplace=True)
     # Need to drop properties with BOTH Beds & Baths == NaN as its the most important feature...
-    redfin.drop(redfin[(redfin.BEDS.isna() | (redfin.BEDS==0)) & \
+    redfin.drop(redfin[(redfin.BEDS.isna() | (redfin.BEDS==0)) | \
         (redfin.BATHS.isna() | (redfin.BATHS==0))].index, inplace=True)
+
     # # Remove above SF 19999 and PRICE above 5mil
     redfin.drop(redfin[(redfin.SF>19999) | (redfin.PRICE>upper_lim)].index, inplace=True)
     # Remove SF below 150 and PRICE below 10000
@@ -71,6 +72,9 @@ def get_redfin_csv(upper_lim=12000000):
     redfin[redfin.YearBuilt.isna()].apply(lambda r: nan_filler.loc[(r.zip,r.Prop_Type),'YearBuilt'], axis=1)
     # Fill rest with 1990
     redfin.loc[redfin.YearBuilt.isna(),'YearBuilt'] = 1990
+
+    # Create "Detached" feature (==SingleFam or Ranch)
+    redfin['Detached'] = redfin.Prop_Type.apply(lambda x: 1 if (x=='Single Family Residential') | (x=='Ranch') else 0)
 
     print('----Done----')
     return redfin
@@ -120,10 +124,12 @@ def get_all(upper_lim=12000000):
 
 def get_zipdata():
     '''
-    Imports hospital data:
+    Pulls Zipcode Level Data
     '''
     print('----pulling ZipCode data from Azure storage----')
     zipdata = pd.read_csv('https://nycdsacapstone2021.blob.core.windows.net/additionaldata/final_zip_data.csv', index_col=0)
-    zipdata.drop(columns=['Zip_count'],inplace=True)
+    unwanted = ['Zip_count','Survey_Date', 'FIPS_State', 'FIPS_County', 'Region_Code', 
+              'Division_Code', 'State_y', 'state_abbrev', 'County_Name']
+    zipdata.drop(columns=unwanted, inplace=True)
     print('----Done----')
     return zipdata
