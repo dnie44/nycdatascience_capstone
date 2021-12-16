@@ -1,3 +1,6 @@
+*.xls
+*.csv
+_data/
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
