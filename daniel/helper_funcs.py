@@ -112,6 +112,7 @@ def get_all(upper_lim=12000000):
     print('----merging all data----')
     av_ratings = schools.groupby('zip').agg("mean")['overallRating']
     redfin = redfin.merge(av_ratings, how='left', left_on='zip', right_index=True)
+    redfin.rename(columns={'overallRating':'school_rating'}, inplace=True)
 
     redfin = redfin.merge(hosp.groupby('ZIP_Code').agg('count')['Facility_Name'], how='left', left_on='zip', right_index=True)
     redfin.rename(columns={'Facility_Name':'Hosp_count'}, inplace=True)
@@ -131,5 +132,49 @@ def get_zipdata():
     unwanted = ['Zip_count','Survey_Date', 'FIPS_State', 'FIPS_County', 'Region_Code', 
               'Division_Code', 'State_y', 'state_abbrev', 'County_Name']
     zipdata.drop(columns=unwanted, inplace=True)
+
+    # Fill NaN values with 0 or mean_value()
+    zipdata.loc[zipdata.over_65_ratio.isna(),'over_65_ratio'] = 0
+    zipdata.loc[zipdata.Hosp_count.isna(),'Hosp_count'] = 0
+    zipdata.loc[zipdata.HPI.isna(),'HPI'] = 0
+    zipdata.loc[zipdata.Demand_score.isna(),'Demand_score'] = 0
+    zipdata.loc[zipdata.Supply_score.isna(),'Supply_score'] = 0
+    zipdata.loc[zipdata.listviews_vs_US.isna(),'listviews_vs_US'] = 0
+    zipdata.loc[zipdata.med_days_on_mkt.isna(),'med_days_on_mkt'] = 0
+    zipdata.loc[zipdata.nielson_rank.isna(),'nielson_rank'] = 0
+    zipdata.loc[zipdata.Zillow_HVF.isna(),'Zillow_HVF'] = 0
+    zipdata.loc[zipdata.school_rating.isna(),'school_rating'] = 5
+    zipdata.loc[zipdata.UE_rate.isna(),'UE_rate'] = zipdata.UE_rate.mean()
+    zipdata.loc[zipdata.BEA_percap_income.isna(),'BEA_percap_income'] = zipdata.BEA_percap_income.mean()
+
+    # Remove unused & redundant columns
+    zipdata.drop(columns=zipdata.columns[-12:], inplace=True)
+    zipdata.drop(columns=zipdata.columns[:5], inplace=True)
+
+    # Generate population features
+    zipdata['Blacks_ratio'] = zipdata.BlackPopulation / zipdata.Population
+    zipdata['Hispanics_ratio'] = zipdata.HispanicPopulation / zipdata.Population
+    zipdata['Asians_ratio'] = zipdata.AsianPopulation / zipdata.Population
+    zipdata['Indians_ratio'] = zipdata.IndianPopulation / zipdata.Population
+    zipdata['Others_ratio'] = zipdata.OtherPopulation / zipdata.Population
+    zipdata['Male_ratio'] = zipdata.MalePopulation / zipdata.Population
+    zipdata.loc[zipdata.Blacks_ratio.isna(),'Blacks_ratio'] = 0
+    zipdata.loc[zipdata.Hispanics_ratio.isna(),'Hispanics_ratio'] = 0
+    zipdata.loc[zipdata.Asians_ratio.isna(),'Asians_ratio'] = 0
+    zipdata.loc[zipdata.Indians_ratio.isna(),'Indians_ratio'] = 0
+    zipdata.loc[zipdata.Others_ratio.isna(),'Others_ratio'] = 0
+    zipdata.loc[zipdata.Male_ratio.isna(),'Male_ratio'] = 0
+
+    zipdata.drop(columns=['BlackPopulation','HispanicPopulation','AsianPopulation','WhitePopulation',
+                        'IndianPopulation','OtherPopulation','MalePopulation','FemalePopulation'], inplace=True)
+
     print('----Done----')
     return zipdata
+
+def get_modelzip():
+    all_feats = ['Population', 'Blacks_ratio', 'Hispanics_ratio', 'Asians_ratio', 
+             'Indians_ratio', 'Others_ratio', 'Male_ratio', 'HouseholdsPerZipCode', 
+             'MedianAge', 'school_rating','over_65_ratio', 'IncomePerHousehold', 
+             'NumberOfBusinesses', 'UE_rate', 'HPI', 'Demand_score', 'Supply_score', 
+             'listviews_vs_US', 'med_days_on_mkt', 'nielson_rank']
+    return get_zipdata()[all_feats]
