@@ -1,4 +1,7 @@
 import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -178,3 +181,43 @@ def get_modelzip():
              'NumberOfBusinesses', 'UE_rate', 'HPI', 'Demand_score', 'Supply_score', 
              'listviews_vs_US', 'med_days_on_mkt', 'nielson_rank']
     return get_zipdata()[all_feats]
+
+def get_train_test(RF, target_feats):
+    #pd.set_option('display.max_rows', None)
+    zip_houses = RF.groupby('zip').agg('count')['PRICE'].to_dict()
+    RF['houses_perZIP'] = RF.zip.apply(lambda r: zip_houses[r])
+    RF = RF[RF.houses_perZIP>4]
+    # Use groupby to split the df into smaller dfs for each ZIP
+    groups = RF.groupby('zip')
+    dfs = [groups.get_group(x) for x in groups.groups]
+    # Use first df to initiate X_train, X_test, etc
+    for d in dfs[:1]:
+        feat = d[target_feats]
+        feat.zip = feat.zip.astype('object')
+        y = np.log10(d.PRICE)
+        X_train, X_test, y_train, y_test = train_test_split(feat, y)
+    # train_test_split each df then stack together
+    for d in dfs[1:]:
+        feat = d[target_feats]
+        feat.zip = feat.zip.astype('object')
+        y = np.log10(d.PRICE)
+        X_trainpiece, X_testpiece, y_trainpiece, y_testpiece = train_test_split(feat, y, test_size=0.25)
+        X_train = X_train.append(X_trainpiece)
+        X_test = X_test.append(X_testpiece)
+        y_train = y_train.append(y_trainpiece)
+        y_test = y_test.append(y_testpiece)
+    # Check rows
+    # print(f'X_train rows: {X_train.shape}')
+    # print(f'X_test rows: {X_test.shape}')
+    X_train_dum = pd.get_dummies(X_train, drop_first=True)
+    X_test_dum = pd.get_dummies(X_test, drop_first=True)
+
+    X_train_le = X_train.copy()
+    X_test_le = X_test.copy()
+
+    le = LabelEncoder()
+    X_train_le.Prop_Type = le.fit_transform(X_train_le.Prop_Type)
+    X_test_le.Prop_Type = le.fit_transform(X_test_le.Prop_Type)
+    X_train_le.zip = le.fit_transform(X_train_le.zip)
+    X_test_le.zip = le.fit_transform(X_test_le.zip)
+    return X_train_dum, X_test_dum, X_train_le, X_test_le, y_train, y_test
