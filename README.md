@@ -1,9 +1,9 @@
 ## Data Engineering and Machine Learning with Stanley Martin Homes 
 #### *NYC Data Science Capstone Project*
 #### Background
-Stanley Martin Homes LLC, a nation-wide homebuilder established in 1966, is building a pricing analytics tool used by their Market Research and Sales teams to fortify and guide the pricing of homes they build.
+A large nation-wide homebuilder in operation for over 50 years approached our data science team to collaborate in building a pricing analytics tool used by their Market Research and Sales teams to fortify and guide the pricing of homes they build.
 
-Our data science team was to assist them in creating an end-to-end Machine Learning pipeline that incorporated: (1) data extraction from public multiple listing services (MLS), (2) data cleaning and storage on Azure cloud, and (3) Machine Learning predictions. The final deliverable was an easy-to-use interactive application for Stanley Martin's teams.
+Our team was to assist them in creating an end-to-end Machine Learning pipeline that incorporated: (1) data extraction from public multiple listing services (MLS), (2) data cleaning and storage on Azure cloud, and (3) Machine Learning predictions on both price and geographical desirability of houses. The final deliverable was an easy-to-use interactive application for the stakeholder's teams.
 <br>
 
 <br>
