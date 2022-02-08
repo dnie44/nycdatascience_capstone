@@ -7,6 +7,7 @@ import json
 zips = pd.read_csv('smh_zips.txt')
 zip_codes = zips['ZipCode']
 zip_codes =zip_codes.tolist()
+zip_codes = [20852, 10003]
     
 class SchoolSpider(scrapy.Spider):
 
@@ -26,14 +27,16 @@ class SchoolSpider(scrapy.Spider):
 
         for url in page_urls:
             yield Request(url = url, callback = self.parse_results)
+        print("TEST!")
 
     def parse_results(self, response):
 
         res_2 = response.xpath("//script").extract_first()
         y = json.loads(re.search(r'gon.search=(.*?);', res_2).group(1))
         schools = y['schools']
+        print("TEST!")
 
-        dict_list = []
+        dict_list = []  
 
         dict = {}
         for i in range(0, len(schools)):
@@ -53,4 +56,5 @@ class SchoolSpider(scrapy.Spider):
             dict['schoolType'] = temp['schoolType']
             dict['pctLowIncome']= temp['percentLowIncome']
             dict['overallRating']  = temp['rating']
+            print(dict)
             yield dict
